@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.08.03 12:05","modified":"2025.08.10 12:45","tags":["dev","git","kb"],"cssclasses":""}
+{"publish":true,"created":"24.08.2025 - 20:39","modified":"24.08.2025 - 20:51","tags":["dev","git","kb"],"cssclasses":""}
 ---
 
 
@@ -10,6 +10,50 @@
 - [Git - Reference](https://git-scm.com/docs)
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [Git Immersion](https://gitimmersion.com/)
+
+## branches
+
+source: [Git - Branches et fusions : les bases](https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Branches-et-fusions%C2%A0:-les-bases)
+
+### Create branch
+
+Create a new branch and switch to that branch
+
+```bash
+git switch -c new_branch
+```
+
+ou
+
+```bash
+git checkout -b new_branch
+```
+
+### push a new local branch to a remote Git
+
+source: [How do I push a new local branch to a remote Git](https://stackoverflow.com/questions/2765421/how-do-i-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too)
+
+```bash
+git push -u origin <branch>
+```
+
+## Change the commit author for a single commit
+
+source: [git - How can I change the commit author for a single commit? - Stack Overflow](https://stackoverflow.com/questions/3042437/how-can-i-change-the-commit-author-for-a-single-commit)
+
+- Reset author for the current repo:
+    
+    `git config --local user.name "Alex Smith"`
+    
+    `git config --local user.email alex@email.com`
+    
+- Now reset the author of your commit without edit required:
+    
+    `git commit --amend --reset-author --no-edit`
+
+## Rewriting history
+
+source: [Git - Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#Changing-Multiple-Commit-Messages)
 
 ## How to stop tracking and ignore changes to a file
 
