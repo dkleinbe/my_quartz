@@ -462,7 +462,7 @@ pre {
     border: none;
   }
 
-  & > code {
+  & > code[data-line-numbers] {
     background: none;
     padding: 0;
     font-size: 0.85rem;
@@ -496,6 +496,7 @@ pre {
         text-align: right;
         color: rgba(115, 138, 148, 0.6);
       }
+     
     }
 
     &[data-line-numbers-max-digits="2"] > [data-line]::before {
