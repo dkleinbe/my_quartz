@@ -1,0 +1,166 @@
+---
+{"publish":true,"created":"03.07.2025 - 15:41","modified":"05.07.2025 - 11:47","tags":["hypnose"],"cssclasses":""}
+---
+
+
+# Phénomènes Hypnotiques
+
+
+## Tests Hypno
+
+### Objectif
+
+Montrer à la personne qu'elle peut créer sa séance sur mesure
+
+Utile pour les personnes :
+- qui ont peur de la perte de contrôle
+- qui ont besoin d'être impliqué
+- qui on besoin de dire non
+
+Exemple de tests :
+
+- Centrer le sujet sur l’interne, le corps / sur le monde extérieur.
+- Centrer sur le visuel / sur l’auditif / sur le kinesthésique.
+- Créer de la détente / créer du dynamisme.
+- Créer de la concentration / créer du lâcher-prise.
+- Centrer sur la droite / sur la gauche (lévitation de la main)
+- Avant / arrière (debout, bascule) 
+- Accélérer la respiration / ralentir les rythmes.
+
+### Séquence
+
+```plantuml
+
+@startuml
+
+title __Tests hypno__
+
+start
+
+: **Intro de séance**
+----
+On va tester ue chose et son contraire, pour déterminer ce qui est le mieux pour toi
+⚠️ //le **biais** d'engagement//
+Je vais te faire tester plusieurs choses, chaque test va me permettre de mieux comprendre comment tu fonctionnes
+On va tester une chose et souvent son contraire
+⚠️//**présupposé**//
+Naturellement on a tous une préférence, quelque chose qui fonctionne mieux que l'autre  
+Ca permettra de savoir comment t'accompagner dans une séance qui va bien fonctionner pour toi ;
+
+:**Choix des tests**
+----
+- Lourd - détente / Léger - monter
+- visuel / auditif / kinesthésique
+- intérieur - introspection / extérieur - déconnecté de soi ;
+
+group **tests**
+
+while (pour tous les tests)
+:**Intro du test**
+donner du sens;
+:test partie 1;
+:test partie 2;
+
+:**Retour au présent**
+Questionnement;
+endwhile
+
+end group
+
+:**Synthèse des résultats**;
+
+:**Induction**
+Utilisation des éléments identifiés ;
+
+:**Retour au présent**;
+
+stop
+
+@enduml
+```
+
+
+
+## Catalepsie
+
+## Levitation de la main
+
+## Paralysie
+
+## Souvenir hypno
+
+
+## Questionnement hypno
+
+### Objectif
+
+Le but du questionnement hypnotique est de faire imaginer à votre sujet, étape après étape, l’entrée dans un état d’hypnose tout en lui faisant expérimenter ce qu’il propose.
+
+Cette forme d’accompagnement permet d’éviter les résistances puisque c’est le sujet qui construit lui- même son avancée : tout vient de lui. Il ne peut alors qu’expérimenter ce qu’il propose et invente.
+
+### Séquence
+
+```plantuml
+@startuml
+title __Questionnement hypno__
+
+start
+
+: **Intro de séance**
+----
+On va explorer la façon dont tu expérimenterais un état de conscience modifé, la transe
+;
+
+group **Questionnement**
+
+: **Question inductive**
+Si vous deviez expérimenter un état hypnotique, quelle serait, à votre avis,
+la première sensation que vous pourriez ressentir en vous ?
+;
+
+repeat 
+: **Valider et lier**;
+
+if (choix) then  (1)
+	:**Préciser le ressenti**
+	Cela commencerait par une sensation de lourdeur ? 
+	À quel endroit de votre corps est-ce que cela commencerait ? 
+	Où est-ce que vous le ressentez en premier ?
+	;
+else (2)
+	:**Chercher un conséquance**
+	Cela commencerait par une sensation de lourdeur ? 
+	Quand cette lourdeur apparaît, qu’est-ce qui en découle pour vous ? 
+	Qu’est-ce que cela amène d’autre en vous ?
+	;
+endif
+
+: **Ratifier et amplifier**
+Connexion à la sensation
+Qu'est ce que ça change ?
+Qu'est ce que tu resents ?
+S'interresser à la transe de l'autre, la questionner
+;
+
+repeat while (amplification)
+end group
+
+:**Retour au présent**;
+
+stop
+
+@enduml
+```
+
+
+
+
+
+## Signal idéomoteur "Signaling"
+
+
+## Ancrage
+
+
+
+## Désactivation d'ancrage
