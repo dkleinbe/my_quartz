@@ -82,7 +82,7 @@ This garden should have the following plugins
 016 Embed code.md
 ==========
 ---
-{"publish":true,"permalink":"/016 Embed code.md","created":"2025-09-05T16:03:30.106+02:00","modified":"2025-09-08T12:09:04.437+02:00","cssclasses":""}
+{"publish":true,"permalink":"/016 Embed code.md","created":"2025-09-05T16:03:30.106+02:00","modified":"2025-09-08T12:22:12.080+02:00","cssclasses":""}
 ---
 
 ## Embed Code from file
@@ -175,27 +175,16 @@ HISTCONTROL=ignoreboth
 
 ```bash title="coucou" showLineNumbers {3-5}
 # ~/.bashrc: executed by bash(1) for non-login shells.
-
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
-
 # for examples
-
 # If not running interactively, don't do anything
-
 case $- in
-
 *i*) ;;
-
 *) return;;
-
 esac
-
 # don't put duplicate lines or lines starting with space in the history.
-
 # See bash(1) for more options
-
 HISTCONTROL=ignoreboth
-
 # append to the history file, don't overwrite it
 ```
 ## Shiki in callout
