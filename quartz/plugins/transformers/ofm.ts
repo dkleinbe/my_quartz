@@ -565,8 +565,11 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
             interface NodePos { node: Code, index: number, parent: UnistParent }
             const plantuml_node: NodePos[] = []
             visit(tree, "code", (node: Code, index, parent) => {
-              
-              if (parent && index != undefined && node.lang === "plantuml") {
+              //
+              // plantuml and plantuml-svg are rendered as svg
+              // TODO: add img rendering for plantuml 
+              //
+              if (parent && index != undefined && (node.lang === "plantuml" || node.lang === "plantuml-svg")) {
                 
                 plantuml_node.push({ node: node, index: index, parent: parent })
                 return SKIP
