@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.09.04 15:22","modified":"2025.09.09 18:45","tags":["dev","git","kb"],"cssclasses":""}
+{"publish":true,"created":"2025.09.04 15:22","modified":"2025.09.11 16:21","tags":["dev","git","kb"],"cssclasses":""}
 ---
 
 
@@ -234,12 +234,16 @@ git merge upstream/main
 >[!tip]  
 >Syncing your fork only updates your local copy of the repository. To update your fork on GitHub.com, you must [push your changes](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository).
 
+## Configurer le pull en mode "rebase"
+
+source: [Configurer le pull en mode "rebase" • Comprendre Git](https://comprendre-git.com/fr/config/git-pull-rebase/)
+
 ## Tag
 
-source: [Git - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+source: [Git - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)  
 Git supports two types of tags: _lightweight_ and _annotated_.
-### Create annotated tag
 
+### Create annotated tag
 
 ```bash
 git tag -a v1.4 -m "my version 1.4"
@@ -256,6 +260,7 @@ git tag v1.4-lw
 ```bash
 git push origin v1.5
 ```
+
 ### Delete tag
 
 source: [How To Delete Local and Remote Tags on Git – devconnected](https://devconnected.com/how-to-delete-local-and-remote-tags-on-git/)

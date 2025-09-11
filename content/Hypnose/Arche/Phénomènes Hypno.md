@@ -29,7 +29,9 @@ Exemple de tests :
 
 ### Séquence
 
-```plantuml
+```plantuml-svg
+skinparam svgDimensionStyle false
+skinparam BackgroundColor #FEFEFE
 
 @startuml
 
@@ -100,8 +102,11 @@ Cette forme d’accompagnement permet d’éviter les résistances puisque c’e
 
 ### Séquence
 
-```plantuml
+```plantuml-svg
 @startuml
+skinparam svgDimensionStyle false
+skinparam BackgroundColor #FEFEFE
+
 title __Questionnement hypno__
 
 start

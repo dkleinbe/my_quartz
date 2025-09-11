@@ -1,0 +1,36 @@
+---
+{"publish":true,"created":"2022-10-23 03:40:37","modified":"2025-09-11T20:08:37.645+02:00","tags":["photo","sony"],"cssclasses":""}
+---
+
+
+# Sony Alpha 7 III
+
+## Bouton perso
+
+### Dessus
+
+![[Photo/attachements/Sony Alpha 7 III 2022-10-23 15.59.42.excalidraw\|1500]]
+
+### Arrière
+
+![[Photo/attachements/Sony Alpha 7 III 2022-10-23 16.28.52.excalidraw\|1500]]
+
+### Verrouillage exposition
+
+#### AEL avec obturateur
+
+> MENU →:luc_camera: 1 (Réglages de prise de vue1) → \[ AEL avec obturat.\] → ==Auto==.
+> 
+
+>- ==**Auto**== :  
+>Fixe l'exposition une fois le réglage automatique de la mise au point effectué après que vous avez enfoncé le déclencheur à mi-course lorsque \[Mode mise au point\] est réglé sur \[AF ponctuel\]. Lorsque \[Mode mise au point\] est réglé sur \[AF automatique\] et que le produit détermine que le sujet se déplace ou que vous prenez plusieurs images en rafale, l'exposition fixée est annulée.
+
+>- **ON** :  
+>Verrouille l’exposition lorsque vous enfoncez le déclencheur à mi-course.
+
+>- **OFF** :  
+>Ne verrouille pas l’exposition lorsque vous enfoncez le déclencheur à mi-course. Utilisez ce mode si vous voulez ajuster la mise au point et l’exposition séparément. Le produit continue d’ajuster l’exposition pendant la prise de vue en mode \[Prise d. v. en continu\].
+
+>MENU → :luc_camera: 2 (Réglages de prise de vue2) → \[ Touche perso\] → \[Touche AEL\] sur \[==Maintien AEL==\]
+
+>- Maintenez le bouton AEL enfoncé, réalisez de nouveau la mise au point sur le sujet, puis effectuez la prise de vue. Relâchez le bouton pour réinitialiser l’exposition.
