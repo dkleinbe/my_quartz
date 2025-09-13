@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2022-10-23 03:40:37","modified":"2025-09-13T16:57:44.043+02:00","tags":["photo","sony"],"cssclasses":""}
+{"publish":true,"created":"2022-10-23 03:40:37","modified":"2025-09-13T18:07:06.425+02:00","tags":["photo","sony"],"cssclasses":""}
 ---
 
 
@@ -18,7 +18,7 @@
 
 #### AEL avec obturateur
 
-> MENU →:luc_camera: 1 (Réglages de prise de vue1) → \[ AEL avec obturat.\] → ==Auto==.
+> MENU →📷 1 (Réglages de prise de vue1) → \[ AEL avec obturat.\] → ==Auto==.
 > 
 
 >- ==**Auto**== :  
@@ -30,6 +30,8 @@
 >- **OFF** :  
 >Ne verrouille pas l’exposition lorsque vous enfoncez le déclencheur à mi-course. Utilisez ce mode si vous voulez ajuster la mise au point et l’exposition séparément. Le produit continue d’ajuster l’exposition pendant la prise de vue en mode \[Prise d. v. en continu\].
 
->MENU → :luc_camera: 2 (Réglages de prise de vue2) → \[ Touche perso\] → \[Touche AEL\] sur \[==Maintien AEL==\]
+>MENU → 📷 2 (Réglages de prise de vue2) → \[ Touche perso\] → \[Touche AEL\] sur \[==Maintien AEL==\]
 
 >- Maintenez le bouton AEL enfoncé, réalisez de nouveau la mise au point sur le sujet, puis effectuez la prise de vue. Relâchez le bouton pour réinitialiser l’exposition.
+
+
