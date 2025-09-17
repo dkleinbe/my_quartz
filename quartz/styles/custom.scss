@@ -4,5 +4,5 @@
 
 // unset rules for <tex> included in svg
 svg text {
-  all: unset;
+  all: revert-layer;
 }
