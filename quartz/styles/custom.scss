@@ -1,3 +1,8 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// unset rules for <tex> included in svg
+svg text {
+  all: unset;
+}
