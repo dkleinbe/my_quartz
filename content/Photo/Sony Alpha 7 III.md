@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2022-10-23 03:40:37","modified":"2025-09-13T18:07:06.425+02:00","tags":["photo","sony"],"cssclasses":""}
+{"publish":true,"created":"2022-10-23 03:40:37","modified":"2025-09-19T15:05:20.039+02:00","tags":["photo","sony"],"cssclasses":""}
 ---
 
 
@@ -21,7 +21,7 @@
 > MENU →📷 1 (Réglages de prise de vue1) → \[ AEL avec obturat.\] → ==Auto==.
 > 
 
->- ==**Auto**== :  
+>- **==Auto==** :  
 >Fixe l'exposition une fois le réglage automatique de la mise au point effectué après que vous avez enfoncé le déclencheur à mi-course lorsque \[Mode mise au point\] est réglé sur \[AF ponctuel\]. Lorsque \[Mode mise au point\] est réglé sur \[AF automatique\] et que le produit détermine que le sujet se déplace ou que vous prenez plusieurs images en rafale, l'exposition fixée est annulée.
 
 >- **ON** :  
