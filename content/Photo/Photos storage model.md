@@ -7,4 +7,4 @@
 
 ## Online scenario
 
-![[Photos storage model.excalidraw.svg|800]]
+![[Photo/attachements/Photos storage model.excalidraw.svg|800]]
