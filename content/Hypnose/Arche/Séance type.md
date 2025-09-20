@@ -6,9 +6,11 @@
 # Séance type
 
 ```plantuml-svg
+skinparam svgDimensionStyle false
+
 !theme spacelab
 left to right direction
-scale 800 width
+
 @startuml
 
 
