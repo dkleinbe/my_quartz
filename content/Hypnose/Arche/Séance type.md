@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.09.19 18:02","modified":"2025.09.20 20:40","tags":["hypnose"],"cssclasses":""}
+{"publish":true,"created":"2025.09.19 18:02","modified":"2025.09.21 15:55","tags":["hypnose"],"cssclasses":""}
 ---
 
 
@@ -14,7 +14,7 @@ left to right direction
 @startuml
 
 
-state "Cadrage de la scéance - 15' à30'" as CS {
+state "Cadrage de la séance - 15' à30'" as CS {
   state "Préparation" as PREP
   state "Le cadre" as CAD
   state "Détermination d'objectif" as DO
@@ -44,7 +44,9 @@ IND --> WORK
 
 ```
 
-## Préparation
+## Cadrage de la séance
+
+### Préparation
 
 Objectif :
 - poser un cadre propice à l’entrée sous hypnose et au changement
@@ -53,7 +55,7 @@ Objectif :
 - écarter les [[Hypnose/Arche/Croyances limitantes\|croyances limitantes]] et autres résistances
 - donner envie !  
 
-## Le cadre
+### Le cadre
 
 Exposer :
 - sa façon de travailler
@@ -61,7 +63,7 @@ Exposer :
 - la façon dont la séance d’hypnose va se dérouler
 - ce que le client doit faire au début, puis pendant l’accompagnement
 
-## Détermination d'objectif
+### Détermination d'objectif
 
 Anamnèse  
 Orienté solution  
@@ -85,10 +87,10 @@ Collecter l’information sur :
 - etc...
 
 Outcome :
-- stratégies employer pour mettre votre sujet sous hypnose
+- stratégies à employer pour mettre votre sujet sous hypnose
 - les « blocages » qui ont empêché votre sujet de changer par lui-même, et donc de quels apprentissages inconscients il a besoin
 
-### Etat présent
+#### Etat présent
 
 But :
 
@@ -107,7 +109,7 @@ de faire cette séance ? »*
 > Pas de présupposé, projection, suggestion  
 > Le risque pour l’opérateur est de vouloir trop d’informations trop vite.
 
-### Etat désiré
+#### Etat désiré
 
 But : 
 - Obtenir un objectif précis : ==SUPER==
@@ -116,14 +118,14 @@ But :
 |:----------------------------------------------------- | -------------------------------------------------- | --------------------------- | ------------------------- |
 | reformuler : comment, précisément<br>définir les mots | Pas d'implication de tiers ou d'élément extérieurs | Pas la négation du problème | Des conséquences positive |
 
-### Changements
+#### Changements
 
 > [!tip]  
 > *« Qu’est-ce qui va changer en vous pour atteindre cet objectif ? »  
 « Qu’est-ce qui peut vous aider à atteindre ce nouvel état ? »  
 « De quoi avez-vous besoin pour changer ? » *
 
-### Objectif de la séance
+#### Objectif de la séance
 
 But :
 - mettre en mouvement, première étape
@@ -147,7 +149,7 @@ changement que vous allez constater autour de vous/en vous ? »
 « Que pourriez-vous faire après cette séance que vous auriez eu du mal à  
 faire avant ? À quel moment pourrez-vous le faire ? »*
 
-### Lier l'objectif à une valeur forte
+#### Lier l'objectif à une valeur forte
 
 But : 
 - Créer du sens, de l’émotion et de l’implication en reliant l’objectif à une valeur forte
@@ -158,6 +160,38 @@ But :
 « Quelle est votre motivation ? »  
 « Qu’est-ce que cela va vous permettre ? »*
 
+#### Projection vers l'avenir
+
+Projection dans un futur où l'objectif est pleinement atteint.  
+Précise, Visuelle, Auditive, Kinesthésique.
+
+#### Vérifier l'écologie
+
+L'objectif a des conséquences positives ou assumées
+
+> [!tip] Title  
+>*« Pensez à toutes les conséquences de l’objectif sur vous, sur vos proches,  
+votre travail… Est-ce qu’il y a des choses à prendre en compte ? »  
+« Si vous atteignez cet objectif, quelles pourraient être les pires conséquences  
+possibles ? Une fois parvenu au résultat, serez-vous satisfait à 100% du  
+changement obtenu ? »*
+
 ## Induction
+
+### Phase I - préparation
+
+- Observation/Questionnement/Synchronisation
+- [[Hypnose/Arche/Discours pré-hypnothique]]
+- [[Hypnose/Arche/Phénomène - Tests Hypno]]
+
+### Phase II - début d'induction
+
+- Boucles 1 : Ratification, travail de la suggestibilité
+- Boucles 2 : la description crée de l’absorption
+
+### Phase III - amplification
+
+- [[Hypnose/Arche/Chemins hypno]]
+- [[Hypnose/Arche/Phénomènes Hypno]]
 
 ## Travail
