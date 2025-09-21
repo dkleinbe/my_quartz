@@ -19,8 +19,8 @@ left to right direction
 
 
 state "[[git]] Cadrage de la scéance - 15' à30'" as CS {
-  state "[[Power Rename]] Préparation" as PREP
-  state "[[Power%20Rename]] Le cadre" as CAD
+  state "[[Network Manager]] Préparation" as PREP
+  state "[[Network%20Manager]] Le cadre" as CAD
   state "Détermination d'objectif" as DO
   DO : 1 - Etat présent
   DO : 2 - Etat désiré
