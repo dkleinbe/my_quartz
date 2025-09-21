@@ -18,9 +18,9 @@ left to right direction
 @startuml
 
 
-state "[[Arche]] Cadrage de la scéance - 15' à30'" as CS {
-  state "Préparation" as PREP
-  state "Le cadre" as CAD
+state "[[git]] Cadrage de la scéance - 15' à30'" as CS {
+  state "[[Power Rename]] Préparation" as PREP
+  state "[[Power%20Rename]] Le cadre" as CAD
   state "Détermination d'objectif" as DO
   DO : 1 - Etat présent
   DO : 2 - Etat désiré
