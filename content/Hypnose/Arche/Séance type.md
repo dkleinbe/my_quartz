@@ -51,7 +51,7 @@ IND --> WORK
 Objectif :
 - poser un cadre propice à l’entrée sous hypnose et au changement
 - rassurer le sujet
-- définir les termes et concepts utilisés
+- définir les termes et [[Hypnose/Arche/Discours pré-hypnothique#Concepts clés\|concepts utilisés]]
 - écarter les [[Hypnose/Arche/Croyances limitantes\|croyances limitantes]] et autres résistances
 - donner envie !  
 
@@ -178,20 +178,54 @@ changement obtenu ? »*
 
 ## Induction
 
+```plantuml-svg
+skinparam svgDimensionStyle false
+
+!theme spacelab
+left to right direction
+
+@startuml
+
+
+state "Induction" as IND {
+  state "Phase I : Préparation" as PREP
+  state "Phase II : Début d'induction" as START
+  state "Phase III : Amplification" as AMP
+  PREP : Observation
+  PREP : Questionnement
+  PREP : Synchronisation
+ 
+  START : Boucle 1
+  START : Boucle 2
+  
+  PREP --> START
+  START --> AMP
+    
+}
+
+
+
+
+@enduml
+
+
+```
+
 ### Phase I - préparation
 
-- Observation/Questionnement/Synchronisation
 - [[Hypnose/Arche/Discours pré-hypnothique]]
-- [[Hypnose/Arche/Phénomène - Tests Hypno]]
+
 
 ### Phase II - début d'induction
 
-- Boucles 1 : Ratification, travail de la suggestibilité
-- Boucles 2 : la description crée de l’absorption
+- [[Hypnose/Arche/Induction - Tests Hypno]]
 
 ### Phase III - amplification
 
 - [[Hypnose/Arche/Chemins hypno]]
 - [[Hypnose/Arche/Phénomènes Hypno]]
 
+[[Hypnose/Arche/Inductions]]
+
 ## Travail
+

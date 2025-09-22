@@ -47,8 +47,34 @@ IND --> WORK
 @enduml
 
 ```
- 
----
+
+## Mermaid test
+
+```mermaid
+graph LR
+subgraph CAD[Cadrage de la séance -15' à 20']
+PREP((Préparation))
+DO["`this is **bold**
+
+toto`"]
+
+PREP-->Cadre
+Cadre-->Objectif
+end
+
+subgraph IND[Induction 15' à 20']
+end
+
+subgraph WORK[Travail 10' à 20']
+end
+
+CAD-->IND
+IND-->WORK
+
+class A internal-link;
+class Cadrage internal-link;
+```
+
 ## Excalidraw
 
 ### Applyed
