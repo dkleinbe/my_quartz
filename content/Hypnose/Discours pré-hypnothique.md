@@ -20,7 +20,7 @@
 - si possible : une annonce de la séance/des outils utilisés
 
 > [!tip]  Annonce  
->*« Tout à l’heure, vous allez entrer dans l’état d’hypnose, au tout début vous allez ressentir que… » *
+>*« Tout à l’heure, vous allez entrer dans l’état d’hypnose, au tout début vous allez ressentir que… »*
 >  
 >*« Avant que vous commenciez à expérimenter l’état hypnotique, j’aimerais vous proposer de vous souvenir de certaines sensations que l’on vit tous,  quand on est absorbé par quelque chose. Cela commence souvent par… »*
 >  
@@ -72,17 +72,18 @@
 >
 > *« Si la moindre chose pendant cette séance ne va pas dans le sens de ce que vous désirez, de ce qui est bon et bien pour vous, la partie qui vous protège pourra le corriger, l’adapter.»*  
 >
-*« La partie inconsciente de vous-même peut utiliser chaque passage de la séance pour créer les changements les plus adaptés. Elle sera même capable d’améliorer, d’amplifier ce qui va dans le bon sens.»*  
+>*« La partie inconsciente de vous-même peut utiliser chaque passage de la séance pour créer les changements les plus adaptés. Elle sera même capable d’améliorer, d’amplifier ce qui va dans le bon sens.»*  
 >
-*« Vous entendrez toujours ma voix et, d’une certaine façon, vous saurez toujours où vous êtes.»*  
+>*« Vous entendrez toujours ma voix et, d’une certaine façon, vous saurez toujours où vous êtes.»*  
 >
-*« Parfois, vous ne comprendrez pas ce qui se passe en vous, et vous pouvez faire confiance à votre part inconsciente pour qu’elle agisse de la meilleure façon pendant cette séance…»*  
+>*« Parfois, vous ne comprendrez pas ce qui se passe en vous, et vous pouvez faire confiance à votre part inconsciente pour qu’elle agisse de la meilleure façon pendant cette séance…»*  
 >
-*« Vous n’êtes pas obligé de penser à ce qui se passe, vous n’avez pas besoin de visualiser vraiment, consciemment, les étapes de ce travail. Tout cela va se passer à un niveau inconscient. Si des éléments parviennent à la conscience, vous pourrez les observer, de loin… comme si vous étiez spectateur de cette séance.»*  
+>*« Vous n’êtes pas obligé de penser à ce qui se passe, vous n’avez pas besoin de visualiser vraiment, consciemment, les étapes de ce travail. Tout cela va se passer à un niveau inconscient. Si des éléments parviennent à la conscience, vous pourrez les observer, de loin… comme si vous étiez spectateur de cette séance.»*  
 >
-*« Il sera possible à chaque instant de faire une pause pendant la séance… Si vous en avez besoin il suffira de me le dire…»* - Même s’il est exceptionnel qu’une personne le demande, cette sécurité permet au sujet d’entrer dans l’état hypnotique avec confiance.  
+>*« Il sera possible à chaque instant de faire une pause pendant la séance… Si vous en avez besoin il suffira de me le dire…»* - Même s’il est exceptionnel qu’une personne le demande, cette sécurité permet au sujet d’entrer dans l’état hypnotique avec confiance.  
 >
-*« Si une émotion passe, elle peut être acceptée, traversée… C’est le signe qu’un travail se réalise.»* - À préciser si on sent une émotion venir.  
+>*« Si une émotion passe, elle peut être acceptée, traversée… C’est le signe qu’un travail se réalise.»* - À préciser si on sent une émotion venir.  
 >
-*« La séance va se prolonger intérieurement, même lorsque vous serez sorti de cet état d’hypnose. Votre part inconsciente sera libre de continuer ce travail dans le cadre qui a été défini.»*
+>*« La séance va se prolonger intérieurement, même lorsque vous serez sorti de cet état d’hypnose. Votre part inconsciente sera libre de continuer ce travail dans le cadre qui a été défini.»*
+
 
