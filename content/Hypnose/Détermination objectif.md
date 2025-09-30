@@ -1,5 +1,6 @@
 
 
+
 # Détermination d'objectif - Anamnèse  
 
 Orienté solution  
@@ -36,9 +37,7 @@ But :
 - observer le niveau émotionnel
 
 > [!tip] Question introductive  
-> *« Que se passait-il pour vous jusqu’à maintenant ? Qu’est-ce qui vous a  
-amené à vouloir commencer ce travail ? Qu’est-ce qui vous a donné envie  
-de faire cette séance ? »*
+> *« Que se passait-il pour vous jusqu’à maintenant ? Qu’est-ce qui vous a amené à vouloir commencer ce travail ? Qu’est-ce qui vous a donné envie de faire cette séance ? »*
 
 > [!warning]  
 > Etape courte  
@@ -57,9 +56,11 @@ But :
 ## Changements
 
 > [!tip]  
-> *« Qu’est-ce qui va changer en vous pour atteindre cet objectif ? »  
-« Qu’est-ce qui peut vous aider à atteindre ce nouvel état ? »  
-« De quoi avez-vous besoin pour changer ? » *
+> *« Qu’est-ce qui va changer en vous pour atteindre cet objectif ? »*  
+> 
+>*« Qu’est-ce qui peut vous aider à atteindre ce nouvel état ? »*
+>
+>*« De quoi avez-vous besoin pour changer ? »*
 
 ## Objectif de la séance
 
@@ -75,26 +76,30 @@ Les étapes sont :
 - dépendantes du sujet
 
 > [!tip]  
-> *« À votre avis, en quoi cette première séance peut-elle amorcer ce  
-changement ? »  
-« D’après vous, sur quoi peut-on commencer à travailler aujourd’hui pour  
-aller vers ce que vous désirez ? »  
-« Si vous commencez à aller vers cet objectif, quel sera le premier »  
-changement que vous allez constater autour de vous/en vous ? »  
-« Comment allez-vous vérifier que votre ressenti est différent ? »  
-« Que pourriez-vous faire après cette séance que vous auriez eu du mal à  
-faire avant ? À quel moment pourrez-vous le faire ? »*
+>*« À votre avis, en quoi cette première séance peut-elle amorcer ce changement ? »*
+>
+>*« D’après vous, sur quoi peut-on commencer à travailler aujourd’hui pour aller vers ce que vous désirez ? »*
+>
+>*« Si vous commencez à aller vers cet objectif, quel sera le premier changement que vous allez constater autour de vous/en vous ? »*  
+>
+>*« Comment allez-vous vérifier que votre ressenti est différent ? »*  
+>
+>*« Que pourriez-vous faire après cette séance que vous auriez eu du mal à faire avant ? À quel moment pourrez-vous le faire ? »*
 
 ## Lier l'objectif à une valeur forte
 
-But : 
+### But 
+
 - Créer du sens, de l’émotion et de l’implication en reliant l’objectif à une valeur forte
 
 > [!tip]  
->*« En quoi est-ce important pour vous ? »  
-« Quelle est l’intention positive de ce but ? »  
-« Quelle est votre motivation ? »  
-« Qu’est-ce que cela va vous permettre ? »*
+>*« En quoi est-ce important pour vous ? » *
+>  
+>*« Quelle est l’intention positive de ce but ? »*
+>   
+>*« Quelle est votre motivation ? »*
+>  
+>*« Qu’est-ce que cela va vous permettre ? »*
 
 ## Projection vers l'avenir
 
@@ -105,9 +110,8 @@ Précise, Visuelle, Auditive, Kinesthésique.
 
 L'objectif a des conséquences positives ou assumées
 
-> [!tip] Title  
->*« Pensez à toutes les conséquences de l’objectif sur vous, sur vos proches,  
-votre travail… Est-ce qu’il y a des choses à prendre en compte ? »  
-« Si vous atteignez cet objectif, quelles pourraient être les pires conséquences  
-possibles ? Une fois parvenu au résultat, serez-vous satisfait à 100% du  
-changement obtenu ? »*
+> [!tip]  
+>*« Pensez à toutes les conséquences de l’objectif sur vous, sur vos proches, votre travail… Est-ce qu’il y a des choses à prendre en compte ? »*
+>
+*« Si vous atteignez cet objectif, quelles pourraient être les pires conséquences possibles ? Une fois parvenu au résultat, serez-vous satisfait à 100% du changement obtenu ? »*
+

@@ -3,21 +3,23 @@
 
 # Discours pré-hypnotique
 
-But : 
+## But  
+
 - poser/renforcer le cadre 
 - créer un début de modification de l’état du sujet 
 - préparer le terrain et définir les concepts utilisés 
 - générer de l’envie 
 - contourner/annuler les résistances
 
-Contenu :
-- un cadre (voir chapitre 1) 
-- des suggestions préhypnotiques 
+## Contenu 
+
+- un cadre
+- des [[Hypnose/Discours pré-hypnothique\|suggestions pré hypnotiques]]
 - la définition des [[Hypnose/Discours pré-hypnothique#Concepts clés\|concepts clés]] 
 - des [[Hypnose/Discours pré-hypnothique#Fusibles\|fusibles]] 
 - si possible : une annonce de la séance/des outils utilisés
 
-> [!tip]  Annonce
+> [!tip]  Annonce  
 >*« Tout à l’heure, vous allez entrer dans l’état d’hypnose, au tout début vous allez ressentir que… » *
 >  
 >*« Avant que vous commenciez à expérimenter l’état hypnotique, j’aimerais vous proposer de vous souvenir de certaines sensations que l’on vit tous,  quand on est absorbé par quelque chose. Cela commence souvent par… »*
@@ -65,7 +67,7 @@ Contenu :
 
 ## Fusibles
 
-> [!tip]
+> [!tip]  
 > *« Tout, pendant la séance, sera dirigé vers votre objectif et seulement vers votre objectif.»*  
 >
 > *« Si la moindre chose pendant cette séance ne va pas dans le sens de ce que vous désirez, de ce qui est bon et bien pour vous, la partie qui vous protège pourra le corriger, l’adapter.»*  
