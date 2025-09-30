@@ -18,39 +18,31 @@ Contenu :
 - si possible : une annonce de la séance/des outils utilisés
 
 > [!tip]  
-> *« Tout à l’heure, vous allez entrer dans l’état d’hypnose, au tout début vous allez ressentir que… » *
->
-*« Avant que vous commenciez à expérimenter l’état hypnotique, j’aimerais vous proposer de vous souvenir de certaines sensations que l’on vit tous,  quand on est absorbé par quelque chose. Cela commence souvent par… »*
->
-*« Souvent, quand une personne rentre dans l’état d’hypnose, elle a l’impression d’être spectatrice d’elle-même, comme si elle prenait de la  distance… »*
->
-*« Tout à l’heure, vous aurez des sensations très simples pour commencer :  votre respiration va devenir plus profonde et vous aurez la sensation que votre corps commence à se poser, à s’installer dans un autre rythme… »*
+>*« Tout à l’heure, vous allez entrer dans l’état d’hypnose, au tout début vous allez ressentir que… » *
+>  
+>*« Avant que vous commenciez à expérimenter l’état hypnotique, j’aimerais vous proposer de vous souvenir de certaines sensations que l’on vit tous,  quand on est absorbé par quelque chose. Cela commence souvent par… »*
+>  
+>*« Souvent, quand une personne rentre dans l’état d’hypnose, elle a l’impression d’être spectatrice d’elle-même, comme si elle prenait de la  distance… »*
+>  
+>*« Tout à l’heure, vous aurez des sensations très simples pour commencer :  votre respiration va devenir plus profonde et vous aurez la sensation que votre corps commence à se poser, à s’installer dans un autre rythme… »*
 
 > [!tip] Renforcer le cadre  
-> *« Sous hypnose, le changement est plus naturel, plus simple… »*
+>*« Sous hypnose, le changement est plus naturel, plus simple… »*
 > 
-*« L’état d’hypnose permet d’accéder à des parties de nous qui nous  
-échappent habituellement, et tout à l’heure je pourrai m’adresser à  
-certaines de ces parties… »*
+>*« L’état d’hypnose permet d’accéder à des parties de nous qui nous  échappent habituellement, et tout à l’heure je pourrai m’adresser à certaines de ces parties… »*
 >
-*« Même quand vous penserez à autre chose, une partie de vous, plus  
-profonde, sera à l’écoute et se servira de chaque étape de ce travail. »*
+*« Même quand vous penserez à autre chose, une partie de vous, plus profonde, sera à l’écoute et se servira de chaque étape de ce travail. »*
 >
-*« Vous pouvez visualiser certaines choses, mais sans que cela soit vraiment  
-important pour l’efficacité de la séance… »*
+>*« Vous pouvez visualiser certaines choses, mais sans que cela soit vraiment important pour l’efficacité de la séance… »*
 >
-*« Tout à l’heure, vous allez aller à la rencontre d’une autre version de vousmême…  
-»*
+>*« Tout à l’heure, vous allez aller à la rencontre d’une autre version de vousmême… »*
 
 > [!tip] Renforcer la suggestibilité  
-> *« Vous entendrez toujours la voix et les mots, et vous ressentirez que chaque  
-phrase influence votre vécu… »*
+> *« Vous entendrez toujours la voix et les mots, et vous ressentirez que chaque phrase influence votre vécu… »*
+>  
+>*« Votre écoute va progressivement se renforcer, vous aurez une sensation de disponibilité de plus en plus grande… »*
 >
-*« Votre écoute va progressivement se renforcer, vous aurez une sensation  
-de disponibilité de plus en plus grande… »*
->
-*« Vous remarquerez rapidement que sous hypnose, la créativité se libère,  
-l’imagination se renforce… »*
+>*« Vous remarquerez rapidement que sous hypnose, la créativité se libère, l’imagination se renforce… »*
 
 ## Concepts clés
 
