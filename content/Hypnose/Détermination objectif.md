@@ -11,9 +11,9 @@ Tri sur l'autre
 Curiosité
 
 > [!warning]  
-> Pas de jugement  
-> Pas de conseil  
-> Pas d'analyse de la personne
+>- Pas de jugement  
+>- Pas de conseil  
+>- Pas d'analyse de la personne
 
 Collecter l’information sur :
 - les fonctionnements de votre sujet 
@@ -97,7 +97,7 @@ Les étapes sont :
 Créer du sens, de l’émotion et de l’implication en reliant l’objectif à une valeur forte
 
 > [!tip]  
->*« En quoi est-ce important pour vous ? » *
+>*« En quoi est-ce important pour vous ? »*
 >  
 >*« Quelle est l’intention positive de ce but ? »*
 >   
@@ -117,5 +117,5 @@ L'objectif a des conséquences positives ou assumées
 > [!tip]  
 >*« Pensez à toutes les conséquences de l’objectif sur vous, sur vos proches, votre travail… Est-ce qu’il y a des choses à prendre en compte ? »*
 >
-*« Si vous atteignez cet objectif, quelles pourraient être les pires conséquences possibles ? Une fois parvenu au résultat, serez-vous satisfait à 100% du changement obtenu ? »*
+>*« Si vous atteignez cet objectif, quelles pourraient être les pires conséquences possibles ? Une fois parvenu au résultat, serez-vous satisfait à 100% du changement obtenu ? »*
 
