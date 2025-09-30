@@ -13,7 +13,7 @@ left to right direction
 
 
 state "Cadrage de la séance - 15' à30'" as CS {
-  state "Préparation" as PREP
+  state "[[S%C3%A9ance%20type#Pr%C3%A9paration {Séance type#Préparation} Préparation]] Préparation" as PREP
   state "Le cadre" as CAD
   state "Détermination d'objectif" as DO
   DO : 1 - Etat présent
