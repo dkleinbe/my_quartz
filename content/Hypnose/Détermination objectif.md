@@ -3,6 +3,8 @@
 
 # Détermination d'objectif - Anamnèse  
 
+## Principes
+
 Orienté solution  
 Position basse  
 Tri sur l'autre  
@@ -37,12 +39,16 @@ But :
 - observer le niveau émotionnel
 
 > [!tip] Question introductive  
-> *« Que se passait-il pour vous jusqu’à maintenant ? Qu’est-ce qui vous a amené à vouloir commencer ce travail ? Qu’est-ce qui vous a donné envie de faire cette séance ? »*
+> *« Que se passait-il pour vous jusqu’à maintenant ? »*
+>   
+> *Qu’est-ce qui vous a amené à vouloir commencer ce travail ? »*
+>   
+> *Qu’est-ce qui vous a donné envie de faire cette séance ? »*
 
 > [!warning]  
-> Etape courte  
-> Pas de présupposé, projection, suggestion  
-> Le risque pour l’opérateur est de vouloir trop d’informations trop vite.
+>- Etape courte  
+>- Pas de présupposé, projection, suggestion  
+>- Le risque pour l’opérateur est de vouloir trop d’informations trop vite.
 
 ## Etat désiré
 
@@ -88,9 +94,7 @@ Les étapes sont :
 
 ## Lier l'objectif à une valeur forte
 
-### But 
-
-- Créer du sens, de l’émotion et de l’implication en reliant l’objectif à une valeur forte
+Créer du sens, de l’émotion et de l’implication en reliant l’objectif à une valeur forte
 
 > [!tip]  
 >*« En quoi est-ce important pour vous ? » *
