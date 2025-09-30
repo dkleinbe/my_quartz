@@ -17,7 +17,7 @@ Contenu :
 - des [[Hypnose/Discours pré-hypnothique#Fusibles\|fusibles]] 
 - si possible : une annonce de la séance/des outils utilisés
 
-> [!tip]  
+> [!tip]  Annonce
 >*« Tout à l’heure, vous allez entrer dans l’état d’hypnose, au tout début vous allez ressentir que… » *
 >  
 >*« Avant que vous commenciez à expérimenter l’état hypnotique, j’aimerais vous proposer de vous souvenir de certaines sensations que l’on vit tous,  quand on est absorbé par quelque chose. Cela commence souvent par… »*
@@ -31,10 +31,10 @@ Contenu :
 > 
 >*« L’état d’hypnose permet d’accéder à des parties de nous qui nous  échappent habituellement, et tout à l’heure je pourrai m’adresser à certaines de ces parties… »*
 >
-*« Même quand vous penserez à autre chose, une partie de vous, plus profonde, sera à l’écoute et se servira de chaque étape de ce travail. »*
+>*« Même quand vous penserez à autre chose, une partie de vous, plus profonde, sera à l’écoute et se servira de chaque étape de ce travail. »*
 >
 >*« Vous pouvez visualiser certaines choses, mais sans que cela soit vraiment important pour l’efficacité de la séance… »*
->
+>  
 >*« Tout à l’heure, vous allez aller à la rencontre d’une autre version de vousmême… »*
 
 > [!tip] Renforcer la suggestibilité  
