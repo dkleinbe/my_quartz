@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"24.07.2025 - 11:43","modified":"24.07.2025 - 11:43","tags":["hypnose"],"cssclasses":""}
----
+
 
 ## Questionnement hypno
 

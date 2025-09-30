@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"18.06.2025 - 13:53","modified":"23.07.2025 - 14:09","tags":["linux","ssh"],"cssclasses":""}
----
+
 
 
 # ssh
@@ -9,7 +7,7 @@
 
 ### Sur le client
 
-- Generate a public key using `ssh-keygen`
+- Generate a public key using 
 - Enable passwd authentication sur le serveur (see [[Systems/ssh#sur le serveur]])
 - Copy your public key:
 
@@ -21,7 +19,7 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub USER@HOST -p PORT
 
 ### sur le serveur
 
--  Re-enable passwd authentication in `/etc/ssh/sshd_config`
+-  Re-enable passwd authentication in 
 
 ```
 PasswordAuthentication yes
@@ -39,7 +37,7 @@ service sshd restart
 
 ## Enable environment variables
 
-on the server, make sure to allow client to pass certain environment variables in your `/etc/ssh/sshd_config` config file:
+on the server, make sure to allow client to pass certain environment variables in your  config file:
 
 ```config
 AcceptEnv LANG LC_* FOO BAR* MY_VARIABLE

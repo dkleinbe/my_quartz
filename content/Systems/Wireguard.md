@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"10.03.2024 - 16:33","modified":"26.07.2024 - 14:35","tags":["linux","debian","network","vpn","wireguard","raspberry"],"cssclasses":""}
----
+
 
 
 # Wireguard
@@ -74,7 +72,7 @@ nm-connection-editor
 
 #### Or edit config file
 
-Config file dir: `/etc/NetworkManager/system-connections`  
+Config file dir:   
 Config file reference: [nm-settings-keyfile: NetworkManager Reference Manual](https://networkmanager.dev/docs/api/latest/nm-settings-keyfile.html)  
 
 ```ini

@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"2025.09.21 16:09","modified":"2025.09.21 17:21","tags":["hypnose"],"cssclasses":""}
----
+
 
 
 # Discours pré-hypnotique

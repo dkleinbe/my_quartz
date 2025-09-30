@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"08.03.2024 - 22:53","modified":"19.05.2024 - 19:07","tags":["linux","debian","nvidia","kb"],"cssclasses":""}
----
+
 
 
 # nVidia driver
@@ -74,7 +72,7 @@ $ sudo mokutil --test-key /var/lib/shim-signed/mok/MOK.der
 /var/lib/shim-signed/mok/MOK.der is already in the enrollment request
 ```
 
-For the dkms to sign kernel modules automatically, we need to add the configuration values to the file: `/etc/dkms/framework.conf`.
+For the dkms to sign kernel modules automatically, we need to add the configuration values to the file: .
 
 ```bash
 $ sudo nano /etc/dkms/framework.conf

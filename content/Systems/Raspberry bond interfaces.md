@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"19.07.2024 - 16:32","modified":"23.07.2024 - 14:31","tags":["network","raspberry"],"cssclasses":""}
----
+
 
 
 # Raspberry bond interfaces
@@ -25,7 +23,7 @@ If you want NetworkManager to handle interfaces that are enabled in /etc/network
 
 Set managed=true in /etc/NetworkManager/NetworkManager.conf.
 
-`sudo service NetworkManager restart`
+
 
 ## Disable dhcpcd service
 
@@ -38,7 +36,7 @@ sudo reboot
 ## Set static ip to bond interface
 
 Set ip, gateway and dns addresses  
-In file :  `/etc/NetworkManager/system-connections/bond0.nmconnection`
+In file :  
 
 ```ini
 [ipv4]
@@ -53,7 +51,7 @@ To take bond0 interface name into account
 
 In the pivpn config file:
 
-`/etc/pivpn/wireguard/setupVars.conf`
+
 
 Change wlan0 to bond0 (bond interface name)  
 So that iptables can be setup properly

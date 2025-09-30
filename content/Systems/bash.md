@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"17.03.2024 - 17:37","modified":"21.06.2024 - 17:06","tags":["linux","bash"],"cssclasses":""}
----
+
 
 
 # bash
@@ -162,7 +160,10 @@
 > alias fcl='fc -l -30'
 > #
 > # Logging
-> alias bootlog="sudo sed $'s/\^\[/\E/g;s/\[1G\[/\[27G\[/' /var/log/boot.log"
+> alias bootlog="sudo sed 
+
+
+s/\^\[/\E/g;s/\[1G\[/\[27G\[/' /var/log/boot.log"
 > #
 > # asciinema
 > #

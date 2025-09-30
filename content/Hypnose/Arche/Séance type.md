@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"2025.09.19 18:02","modified":"2025.09.21 15:55","tags":["hypnose"],"cssclasses":""}
----
+
 
 
 # Séance type
@@ -29,7 +27,7 @@ state "Cadrage de la séance - 15' à30'" as CS {
 }
 
 
-state "Induction 15' à 20'" as IND {
+state "[[Inductions {Inductions} Inductions]] 15' à 20'" as IND {
   state "Discours Pré-Hypnotique" as DPH
 }
 

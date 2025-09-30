@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"23.07.2024 - 15:57","modified":"23.07.2024 - 16:00","tags":["network","dnsmasq"],"cssclasses":""}
----
+
 
 
 # dnsmasq
@@ -18,7 +16,7 @@ service dnsmasq restart
 
 ## Enable logging
 
-In file: `/etc/dnsmasq.conf`
+In file: 
 
 ```ini
 # For debugging purposes, log each DNS query as it passes through

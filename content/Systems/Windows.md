@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"15.01.2022 - 17:45","modified":"21.03.2025 - 10:54","tags":["windows","kb"],"cssclasses":""}
----
+
 
 
 #  Windows    
@@ -34,16 +32,16 @@ Commands:
 
 #### Add github credential with a TOKEN avec git-credential-manager
 
-`git-credential-manager.exe github login`
+
 
 #### Check github credential avec git-credential-manager
 
-`echo url=https://github.com/dkleinbe/Obsidian_vault.git | git credential fill`
+
 
 #### Check github credential dans windows
 
 Ouvrir :
-`Panneau de configuration\Comptes d’utilisateurs\Gestionnaire d'identification`
+
 
 ![[Systems/attachements/Windows-2.png|600]]
 
@@ -52,7 +50,7 @@ Ouvrir :
 source: [How to pin either a Shortcut or a Batch file to the new Windows 7, 8 and 10 Taskbar and start menu? - Super User](https://superuser.com/questions/100249/how-to-pin-either-a-shortcut-or-a-batch-file-to-the-new-windows-7-8-and-10-task)
 
 1. Create a shortcut to your batch file.
-2. Get into shortcut property and change target to something like: `cmd.exe /C "path-to-your-batch"`.
+2. Get into shortcut property and change target to something like: .
 3. Simply drag your new shortcut to the taskbar. It should now be pinnable.
 
 ## Switch between application windows in different virtual desktops
@@ -70,10 +68,10 @@ From now on, Alt+Tab will switch between all applications
 
 - Dans la barre de recherche  
 ![[Systems/attachements/Windows-1.png|300]]
-- Options `Avancé`
+- Options 
 
 ![[Systems/attachements/Windows.png]]
 
 ## Disable hibernation (hyberfil.sys)
 
-- run `powercfg -h off`
+- run 

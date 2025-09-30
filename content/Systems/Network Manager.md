@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"21.06.2024 - 15:46","modified":"23.06.2024 - 12:35","tags":["debian","linux","network"],"cssclasses":""}
----
+
 
 
 # Network Manager

@@ -1,6 +1,4 @@
----
-{"publish":true,"created":"16.03.2024 - 17:07","modified":"25.10.2024 - 17:03","tags":["debian","linux","gnome"],"cssclasses":""}
----
+
 
 
 # debian gnome desktop menu
@@ -13,9 +11,9 @@ Files involved in this specification are located according to the "desktop base 
 
 Here are the files defined by this specification:
 
-- `$XDG_CONFIG_DIRS/menus/${XDG_MENU_PREFIX}applications.menu`  
+-   
 
-This file contains the XML definition of the main application menu layout. The first file found in the search path should be used; other files are ignored. This implies that if the user has their own `${XDG_MENU_PREFIX}applications.menu`, it replaces the system wide one. (Though the user's menu may explicitly merge the system wide one.)
+This file contains the XML definition of the main application menu layout. The first file found in the search path should be used; other files are ignored. This implies that if the user has their own , it replaces the system wide one. (Though the user's menu may explicitly merge the system wide one.)
 
 Systems that offer multiple desktop environments and that want to use distinct menu layouts in the different environments can use differently prefixed .menu files. In this case the $XDG_MENU_PREFIX environment variable must be set by the system to reflect the .menu file that is being used.
 
@@ -23,7 +21,7 @@ For example if a system contains both the GNOME and the KDE desktop environments
 
 Implementations may chose to use .menu files with other names for tasks or menus other than the main application menu. Such usage is not covered by this specification.
 
-- `$XDG_CONFIG_DIRS/menus/applications-merged/`
+- 
 
 The default merge directories included in the \<DefaultMergeDirs> element. By convention, third parties may add new \<Menu> files in this location to create their own sub-menus.
 
@@ -33,13 +31,13 @@ Implementations may chose to use .menu files with names other than application.m
 
 For example in a system that uses a preferences.menu file to describe an additional menu, the default merge directories included in the \<DefaultMergeDirs> element in the preferences.menu file would become $XDG_CONFIG_DIRS/menus/preferences-merged/
 
-- `$XDG_DATA_DIRS/applications/`
+- 
 
 This directory contains a .desktop file for each possible menu item. Each directory in the $XDG_DATA_DIRS search path should be used (i.e. desktop entries are collected from all of them, not just the first one that exists). When two desktop entries have the same name, the one appearing earlier in the path is used.
 
 The \<DefaultAppDirs> element in a menu file indicates that this default list of desktop entry locations should be scanned at that point. If a menu file does not contain \<DefaultAppDirs>, then these locations are not scanned.
 
-- `$XDG_DATA_DIRS/desktop-directories/`
+- 
 
 This directory contains directory entries which may be associated with folders in the menu layout. Each directory in the search path should be used. Only files ending in .directory are used; other files are ignored.
 
@@ -51,11 +49,11 @@ The \<DefaultDirectoryDirs> element in a menu file indicates that this default l
 
 The following steps describe how a third party application can add menu items to the menu system:
 
-Install desktop entries to `datadir/applications/` for each menu item. Please namespace the filename, as in "vendor-foo.desktop", or use a subdirectory of `datadir/applications/` so you have "vendor/foo.desktop." Please be sure all desktop entries are valid (see the desktop-file-utils package for a validation utility).
+Install desktop entries to  for each menu item. Please namespace the filename, as in "vendor-foo.desktop", or use a subdirectory of  so you have "vendor/foo.desktop." Please be sure all desktop entries are valid (see the desktop-file-utils package for a validation utility).
 
-Install an XML menu file to `sysconfdir/menus/applications-merged/` to add any submenus, if your desktop entries aren't already included in some common categories.
+Install an XML menu file to  to add any submenus, if your desktop entries aren't already included in some common categories.
 
-Install any directory entries needed for your submenus to `datadir/desktop-directories/`, taking care to namespace and validate the directory entries.  
+Install any directory entries needed for your submenus to , taking care to namespace and validate the directory entries.  
 
 ![[Systems/attachements/debian desktop menu 2024-03-17 16.54.20.excalidraw\|1000]]
 
