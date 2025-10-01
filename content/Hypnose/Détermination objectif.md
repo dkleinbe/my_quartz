@@ -3,12 +3,51 @@
 
 # Détermination d'objectif - Anamnèse  
 
+```plantuml-svg
+skinparam svgDimensionStyle false
+
+!theme spacelab
+'!theme crt-amber
+'left to right direction
+
+@startuml
+
+
+state "[[D%C3%A9termination%20objectif#Etat%20pr%C3%A9sent {Détermination objectif#Etat présent} Etat présent]]" as EP {
+	EP : - identifier le point de départ
+	EP : - découvrir le sujet
+	EP : - synchronisation  
+}
+
+state "[[D%C3%A9termination%20objectif#Etat%20d%C3%A9sir%C3%A9 {Détermination objectif#Etat désiré} Etat désiré]]" as ED {
+    ED : - Obtenir un objectif précis : SUPER
+}
+
+state "[[D%C3%A9termination%20objectif#Changements {Détermination objectif#Changements} Changements à entreprende]]" as CHG {
+    CHG : - les besoins
+    CHG : - les ressources
+    CHG : - les aides
+}
+
+state "[[D%C3%A9termination%20objectif#Objectif%20de%20la%20s%C3%A9ance {Détermination objectif#Objectif de la séance} Objectif de la séance]]" as STEP {
+    STEP : - mettre en mouvement, première étape
+}
+
+EP -right-> ED
+ED -right-> CHG
+CHG -right-> STEP
+
+@enduml
+
+
+```
+
 ## Principes
 
-Orienté solution  
-Position basse  
-Tri sur l'autre  
-Curiosité
+- Orienté solution  
+- Position basse  
+- Tri sur l'autre  
+- Curiosité
 
 > [!warning]  
 >- Pas de jugement  
@@ -16,6 +55,7 @@ Curiosité
 >- Pas d'analyse de la personne
 
 Collecter l’information sur :
+
 - les fonctionnements de votre sujet 
 - son état présent 
 - son état désiré 
@@ -26,6 +66,7 @@ Collecter l’information sur :
 - etc...
 
 Outcome :
+
 - stratégies à employer pour mettre votre sujet sous hypnose
 - les « blocages » qui ont empêché votre sujet de changer par lui-même, et donc de quels apprentissages inconscients il a besoin
 
@@ -70,8 +111,7 @@ But :
 
 ## Objectif de la séance
 
-But :
-- mettre en mouvement, première étape
+Mettre en mouvement, première étape.
 
 Les étapes sont :
 
