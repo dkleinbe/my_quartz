@@ -10,3 +10,8 @@ svg text {
 .article-title {
   display: none;
 }
+
+// change link color for planuml diagrams
+svg[data-diagram-type] a text {
+  fill: #fce8c1;
+}
