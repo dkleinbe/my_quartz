@@ -27,7 +27,7 @@ state "[[Protocole%20-Transformer%20un%20sympt%C3%B4me%20en%20signal%20-%20Rossi
     STEP3 : - utilisation du symptôme en signal
 }
 
-state "[[Protocole%20-Transformer%20un%20sympt%C3%B4me%20en%20signal%20-%20Rossi#Etape%20-%20R%C3%A9%C3%A9valuation%20de%20l'intensit%C3%A9%20du%20sympt%C3%B4me {Protocole -Transformer un symptôme en signal - Rossi#Etape - Réévaluation de l'intensité du symptôme} Réévaluation de l'intensité]]" as STEP4 {
+state "[[Protocole%20-Transformer%20un%20sympt%C3%B4me%20en%20signal%20-%20Rossi#Etape%204%20-%20R%C3%A9%C3%A9valuation%20de%20l'intensit%C3%A9%20du%20sympt%C3%B4me {Protocole -Transformer un symptôme en signal - Rossi#Etape 4 - Réévaluation de l'intensité du symptôme} Réévaluation de l'intensité]]" as STEP4 {
 }
 
 STEP1 -right-> STEP2
