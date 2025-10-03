@@ -15,3 +15,8 @@ svg text {
 svg[data-diagram-type] a text {
   fill: #fce8c1;
 }
+
+// change link color for planuml ACTIVITY diagrams
+svg[data-diagram-type="ACTIVITY"] a text {
+  fill: #000000;
+}
