@@ -39,12 +39,14 @@ async function mouseEnterHandler(
       }
     }
   }
-
-  const targetUrl = new URL(link.href)
+  
+  const targetUrl = (typeof link.href === "object" && "baseVal" in link.href  ) ? 
+    new URL((link.href as SVGAnimatedString).baseVal, link.baseURI) : 
+    new URL(link.href as string)
   const hash = decodeURIComponent(targetUrl.hash)
   targetUrl.hash = ""
   targetUrl.search = ""
-  const popoverId = `popover-${link.pathname}`
+  const popoverId = `popover-${targetUrl.pathname}`
   const prevPopoverElement = document.getElementById(popoverId)
 
   // dont refetch if there's already a popover
