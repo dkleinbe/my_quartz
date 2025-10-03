@@ -79,7 +79,7 @@ But :
 - installer la relation (mise en place de la synchronisation) 
 - observer le niveau émotionnel
 
-> [!tip] Question introductive  
+z> [!tip] Question introductive  
 > *« Que se passait-il pour vous jusqu’à maintenant ? »*
 >   
 > *Qu’est-ce qui vous a amené à vouloir commencer ce travail ? »*

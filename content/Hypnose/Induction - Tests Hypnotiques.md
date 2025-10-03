@@ -26,7 +26,7 @@ Exemple de tests :
 ```plantuml-svg
 skinparam svgDimensionStyle false
 skinparam BackgroundColor #FEFEFE
-
+'!theme spacelab
 @startuml
 
 title __Tests hypno__
