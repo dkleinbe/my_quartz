@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"2025.09.22 19:56","modified":"2025.09.30 18:11","tags":["hypnose","induction"],"cssclasses":""}
+---
 
 
 # Inductions

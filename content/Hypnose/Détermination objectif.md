@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"2025.09.30 17:58","modified":"2025.10.01 20:40","tags":["hypnose"],"cssclasses":""}
+---
 
 
 # Détermination d'objectif - Anamnèse  

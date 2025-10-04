@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"2025.10.03 10:23","modified":"2025.10.03 14:52","tags":["hypnose","protocole","rossi"],"cssclasses":""}
+---
 
 
 # Protocole - Transformer un symptôme en signal - Rossi

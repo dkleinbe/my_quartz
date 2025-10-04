@@ -1,4 +1,6 @@
-
+```bash
+nmcli -f NAME,DEVICE,FILENAME connection show
+```0
 
 
 # Network Manager
@@ -24,9 +26,7 @@ nmtui
 
 ## List connections
 
-```bash
-nmcli -f NAME,DEVICE,FILENAME connection show
-```
+>>>>>>3
 
 ## Bonding interfaces
 

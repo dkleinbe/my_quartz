@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"17.03.2024 - 17:37","modified":"21.06.2024 - 17:06","tags":["linux","bash"],"cssclasses":""}
+---
 
 
 # bash

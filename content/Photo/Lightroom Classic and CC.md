@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"07.08.2024 - 17:58","modified":"09.09.2024 - 19:05","tags":["photo","adobe","lightroom"],"cssclasses":""}
+---
 
 
 # Lightroom Classic & CC
@@ -21,7 +23,7 @@
 
 ### Stockage des photos synchronisées
 
-Les photos synchronisées sont toutes stockées dans le même dossier (e.g. : )  
+Les photos synchronisées sont toutes stockées dans le même dossier (e.g. : `D:\Users\denis\Photolab\CloudSync`)  
 A définir des les préférences :
 
 ![[Photo/attachements/Lightroom-1.png]]
@@ -45,7 +47,7 @@ En mode Grille, sélectionnez les photos, puis sélectionnez Photo > Supprimer d
 
 ### Cache des originaux sur PC
 
--   
+- `Edition > Préférences`  
 Modifier l'emplacement de stockage des originaux
 
 ![[Photo/attachements/Lightroom.png]]

@@ -1,4 +1,6 @@
-
+```bash
+sudo nmcli connection import type wireguard file ./vpn_ferret.conf
+```8
 
 
 # Wireguard
@@ -48,9 +50,7 @@ scp denis@rasp-ferret:configs/debian-tipi.conf vpn_debian-tipi.conf
 
 ## Create config from wireguard server export
 
-```bash
-sudo nmcli connection import type wireguard file ./vpn_ferret.conf
-```
+>>>>>>2
 
 ## Add route to Home assistant
 
@@ -72,7 +72,7 @@ nm-connection-editor
 
 #### Or edit config file
 
-Config file dir:   
+Config file dir: `/etc/NetworkManager/system-connections`  
 Config file reference: [nm-settings-keyfile: NetworkManager Reference Manual](https://networkmanager.dev/docs/api/latest/nm-settings-keyfile.html)  
 
 ```ini

@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"2025.09.19 17:53","modified":"2025.09.19 17:56","tags":["hypnose"],"cssclasses":""}
+---
 
 # Croyances limitantes
 

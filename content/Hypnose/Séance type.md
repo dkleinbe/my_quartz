@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"2025.09.19 18:02","modified":"2025.09.30 18:14","tags":["hypnose"],"cssclasses":""}
+---
 
 
 # Séance type

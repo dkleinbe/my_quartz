@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"22.06.2024 - 15:29","modified":"22.06.2024 - 15:29","tags":["blender"],"cssclasses":""}
+---
 
 
 # Blender

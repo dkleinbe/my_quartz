@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"2025.09.30 18:01","modified":"2025.09.30 18:01","tags":["hypnose"],"cssclasses":""}
+---
 
 # Cadrage de la séance
 

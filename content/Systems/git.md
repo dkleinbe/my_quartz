@@ -1,4 +1,6 @@
-
+```bash
+git switch -c new_branch
+```08
 
 
 # GIT
@@ -23,9 +25,7 @@ source: [Git - Branches et fusions : les bases](https://git-scm.com/book/fr/v2/
 
 Create a new branch and switch to that branch
 
-```bash
-git switch -c new_branch
-```
+>>>>>>1
 
 or
 
@@ -54,9 +54,9 @@ git branch -d <branch_name>
 git branch -D <branch_name>
 ```
 
-- The  option is an alias for , which only deletes the branch if it has already been fully merged in its upstream branch.
-- The  option is an alias for , which deletes the branch "irrespective of its merged status." [Source: ]
-- As of [Git v2.3](https://github.com/git/git/blob/master/Documentation/RelNotes/2.3.0.txt),  (delete) learned to honor the  (force) flag.
+- The `-d` option is an alias for `--delete`, which only deletes the branch if it has already been fully merged in its upstream branch.
+- The `-D` option is an alias for `--delete --force`, which deletes the branch "irrespective of its merged status." [Source: `man git-branch`]
+- As of [Git v2.3](https://github.com/git/git/blob/master/Documentation/RelNotes/2.3.0.txt), `git branch -d` (delete) learned to honor the `-f` (force) flag.
 - You will receive an error if you try to delete the currently selected branch.
 
 #### Delete Remote Branch
@@ -114,7 +114,7 @@ source: [Git - Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewri
 ## Stop tracking and ignore changes to a file
 
 - source:  [How to stop tracking and ignore changes to a file in Git? - Stack Overflow](https://stackoverflow.com/questions/936249/how-to-stop-tracking-and-ignore-changes-to-a-file-in-git)
-- Just calling  on each of the files you want to remove from revision control should be fine
+- Just calling `git rm --cached` on each of the files you want to remove from revision control should be fine
 - see also: [Git - Maintenance and Data Recovery](https://git-scm.com/book/en/v2/Git-Internals-Maintenance-and-Data-Recovery)
 
 ## Git update-index --skip-worktree, and how I used to hate config files
@@ -185,7 +185,7 @@ Before you can sync your fork with an upstream repository, you must configure a 
     
 2. Change the current working directory to your local project.
     
-3. Fetch the branches and their respective commits from the upstream repository. Commits to  will be stored in the local branch .
+3. Fetch the branches and their respective commits from the upstream repository. Commits to `BRANCH-NAME` will be stored in the local branch `upstream/BRANCH-NAME`.
 
 ```shell
 git fetch upstream
@@ -197,14 +197,14 @@ git fetch upstream
 >  * [new branch]      main     -> upstream/main
 ```
 
-4. Check out your fork's local default branch - in this case, we use .
+4. Check out your fork's local default branch - in this case, we use `main`.
 
 ```shell
 git checkout main
 > Switched to branch 'main'
 ```
 
-5. Merge the changes from the upstream default branch - in this case,  - into your local default branch. This brings your fork's default branch into sync with the upstream repository, without losing your local changes.
+5. Merge the changes from the upstream default branch - in this case, `upstream/main` - into your local default branch. This brings your fork's default branch into sync with the upstream repository, without losing your local changes.
 
 ```bash
 git merge upstream/main

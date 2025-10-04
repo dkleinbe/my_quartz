@@ -1,4 +1,8 @@
-
+```bash
+scp /file/to/send username@remote:/where/to/put
+# OR
+scp username@remote:/file/to/send /where/to/put
+```07
 
 
 # Linux
@@ -19,17 +23,15 @@ crul -T file_to_uload.jpg-u "login:passwd" ftp://ftpserver.com/
 
 ## Commands
 
-### Colored output with 
+### Colored output with ```bash
+inxi -SMA
+```5
 
-- 
+- `less -R`
 
 ### Remote copy
 
-```bash
-scp /file/to/send username@remote:/where/to/put
-# OR
-scp username@remote:/file/to/send /where/to/put
-```
+>>>>>>1
 
 ### Infos system
 
@@ -41,9 +43,7 @@ sudo apt install inxi
 
 Check info
 
-```bash
-inxi -SMA
-```
+>>>>>>3
 
 Output: 
 
@@ -85,7 +85,7 @@ apt list --installed
 
 ### Package install dry run
 
-
+`sudo apt-get install --dry-run something`
 
 ### Package infos
 
@@ -98,11 +98,11 @@ apt list --installed
 Pour supprimer la mise en veille lors de la fermeture du portable  
 Dans :  
 
-  
+`/etc/systemd/logind.conf.d`  
 
 Créer le fichier :  
 
-  
+`50-HandleLid.conf`  
 
 Ajouter :
 
@@ -144,7 +144,7 @@ See: [[Home Assistant/home_assistant#Start & Stop]]
 
 #### Fix
 
-Here's a nice workaround for anyone who's interested. If in the host system you are using only alsa, you can instruct HA's pulse to ignore a certain card via udev. Just create a file  with the following content:
+Here's a nice workaround for anyone who's interested. If in the host system you are using only alsa, you can instruct HA's pulse to ignore a certain card via udev. Just create a file `/etc/udev/rules.d/89-pulseaudio.rules` with the following content:
 
 ```
 DRIVERS=="snd_hda_intel", ENV{PULSE_IGNORE}="1"
@@ -169,7 +169,7 @@ PipeWire (multi media framework) [PipeWire - ArchWiki](https://wiki.archlinux.or
 
 Then, we need to enable new service:
 
-
+`systemctl --user enable --now wireplumber`
 
 ## Increase swap space with regular file
 
@@ -380,7 +380,7 @@ s/\^\[/\E/g;s/\[1G\[/\[27G\[/' /var/log/boot.log
 
 ### Package install dry run
 
-
+>>>>>>49
 
 ### Package infos
 
@@ -393,11 +393,11 @@ s/\^\[/\E/g;s/\[1G\[/\[27G\[/' /var/log/boot.log
 Pour supprimer la mise en veille lors de la fermeture du portable  
 Dans :  
 
-  
+>>>>>>50  
 
 Créer le fichier :  
 
-  
+>>>>>>51  
 
 Ajouter :
 
@@ -429,7 +429,7 @@ See: [[Home Assistant/home_assistant#Start & Stop]]
 
 #### Fix
 
-Here's a nice workaround for anyone who's interested. If in the host system you are using only alsa, you can instruct HA's pulse to ignore a certain card via udev. Just create a file  with the following content:
+Here's a nice workaround for anyone who's interested. If in the host system you are using only alsa, you can instruct HA's pulse to ignore a certain card via udev. Just create a file >>>>>>58 with the following content:
 
 >>>>>>10
 
@@ -450,7 +450,7 @@ PipeWire (multi media framework) [PipeWire - ArchWiki](https://wiki.archlinux.or
 
 Then, we need to enable new service:
 
-
+>>>>>>64
 
 ## Increase swap space with regular file
 

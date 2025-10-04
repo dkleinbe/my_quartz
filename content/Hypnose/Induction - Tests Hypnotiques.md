@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"03.07.2025 - 17:45","modified":"03.07.2025 - 17:49","tags":["hypnose"],"cssclasses":""}
+---
 
 ## Tests Hypno
 

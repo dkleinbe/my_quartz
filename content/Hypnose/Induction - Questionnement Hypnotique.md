@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"2025.07.24 11:43","modified":"2025.09.30 17:06","tags":["hypnose","induction"],"cssclasses":""}
+---
 
 
 # Questionnement hypnotique

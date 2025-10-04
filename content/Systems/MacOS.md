@@ -1,4 +1,6 @@
-
+---
+{"publish":true,"created":"25.03.2024 - 14:51","modified":"25.03.-254 -  4052:51:14","tags":["mac"],"cssclasses":""}
+---
 
 
 # MacOS
