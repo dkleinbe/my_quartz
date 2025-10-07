@@ -12,7 +12,7 @@ document.addEventListener("nav", async () => {
   )
   //const panzoom = panzoomImport.default
 */
-  const svgs = [...document.querySelectorAll('svg.excalidraw-svg')]
+  const svgs = [...document.querySelectorAll('svg.panzoom')]
   for (const svg of svgs) {
     console.log("SVG detected, adding panzoom")
     //svg.setAttribute("width", svg.getAttribute("viewBox")!.split(' ')[2])
