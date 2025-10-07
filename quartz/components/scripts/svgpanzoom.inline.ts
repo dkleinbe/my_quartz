@@ -12,8 +12,31 @@ document.addEventListener("nav", async () => {
   )
   //const panzoom = panzoomImport.default
 */
+  
+  let instance = []
+
+  function switchmotion(bt, ind) {
+    if (! instance[ind].isPaused()) {
+      instance[ind].pause()
+      bt.textContent = "start"   
+    }
+    else {
+      instance[ind].resume()
+      bt.textContent = "stop"
+    }
+  }
+  
+
   const svgs = [...document.querySelectorAll('svg.panzoom')]
-  for (const svg of svgs) {
+  svgs.forEach((svg, index) => {
+    
+    const button = document.createElement("button")
+    button.textContent = "stop"
+    button.className = "svgpanzoom-motion-button"
+    svg.parentNode?.appendChild(button)
+    button.addEventListener("click",() => switchmotion(button, index))
+    window.addCleanup(() => button.removeEventListener("click", () => switchmotion(button, index)))
+
     console.log("SVG detected, adding panzoom")
     //svg.setAttribute("width", svg.getAttribute("viewBox")!.split(' ')[2])
     svg.setAttribute("height", svg.getBoundingClientRect().height.toString())
@@ -32,47 +55,11 @@ document.addEventListener("nav", async () => {
     svg.appendChild(g)
     // @ts-ignore
     
-    var timer
-    var touchduration = 500
-    var event
-    var longtouch = false
-    function onlongtouch() {
-      console.log("+ dispach event")
-      longtouch = true
-      document.removeEventListener('touchmove', stoptimer);
-      document.removeEventListener('touchend', stoptimer);
-      //instance.pause()
-      svg.dispatchEvent(event, {timestamp: Date.now()})
-    }
-
-    function stoptimer(e) {
-      if (timer) {
-        console.log("+ clear timer")
-        document.removeEventListener('touchmove', stoptimer);
-        document.removeEventListener('touchend', stoptimer);
-        clearTimeout(timer)
-        timer = null
-      }
-    }
-
-    var instance = panzoom(g, {
+    
+    instance[index] = panzoom(g, {
       bounds: true,
       boundsPadding: 0.1,
-      onTouch: function(e) {
-        console.log("+ longtouch", longtouch)
-        if (longtouch) {
-          //console.log("+ longtouch")
-          longtouch = false
-          return false // tells the library to not preventDefault.
-        }
-        event = e
-        document.addEventListener('touchmove', stoptimer);
-        document.addEventListener('touchend', stoptimer);
-        timer = setTimeout(onlongtouch, touchduration);
-        
-        return true; 
-      }
     })
-  }
+  })
 
 })
