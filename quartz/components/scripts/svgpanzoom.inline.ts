@@ -32,11 +32,47 @@ document.addEventListener("nav", async () => {
     svg.appendChild(g)
     // @ts-ignore
     
-    panzoom(g, {
+    var timer
+    var touchduration = 500
+    var event
+    var longtouch = false
+    function onlongtouch() {
+      console.log("+ dispach event")
+      longtouch = true
+      document.removeEventListener('touchmove', stoptimer);
+      document.removeEventListener('touchend', stoptimer);
+      //instance.pause()
+      svg.dispatchEvent(event, {timestamp: Date.now()})
+    }
+
+    function stoptimer(e) {
+      if (timer) {
+        console.log("+ clear timer")
+        document.removeEventListener('touchmove', stoptimer);
+        document.removeEventListener('touchend', stoptimer);
+        clearTimeout(timer)
+        timer = null
+      }
+    }
+
+    var instance = panzoom(g, {
       bounds: true,
-      boundsPadding: 0.1
-      })
-      
+      boundsPadding: 0.1,
+      onTouch: function(e) {
+        console.log("+ longtouch", longtouch)
+        if (longtouch) {
+          //console.log("+ longtouch")
+          longtouch = false
+          return false // tells the library to not preventDefault.
+        }
+        event = e
+        document.addEventListener('touchmove', stoptimer);
+        document.addEventListener('touchend', stoptimer);
+        timer = setTimeout(onlongtouch, touchduration);
+        
+        return true; 
+      }
+    })
   }
 
 })
