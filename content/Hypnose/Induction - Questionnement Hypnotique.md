@@ -19,7 +19,7 @@ Cette forme d’accompagnement permet d’éviter les résistances puisque c’e
 
 Ici, c'est le sujet qui construit son chemin, on peut néanmoins le guider au travers des questions vers un [[Hypnose/Phénomènes Hypnotiques\|phénomène hypnotique]] que l'on ratifiera pour valider l'état de transe
 ## Séquence
-I#credential
+
 ```plantuml-svg
 @startuml
 skinparam svgDimensionStyle false
