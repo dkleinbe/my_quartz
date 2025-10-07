@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Hypnose","created":"2025.10.04 18:23","modified":"2025.10.07 19:37","tags":["hypnose"],"cssclasses":""}
+{"publish":true,"title":"Hypnose","created":"2025.10.04 18:23","modified":"2025.10.08 00:10","tags":["hypnose"],"cssclasses":""}
 ---
 
 
