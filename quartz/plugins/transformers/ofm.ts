@@ -1,4 +1,5 @@
 import { QuartzTransformerPlugin } from "../types"
+
 import {
   Root,
   Html,
@@ -23,6 +24,8 @@ import checkboxScript from "../../components/scripts/checkbox.inline"
 // @ts-ignore
 import mermaidScript from "../../components/scripts/mermaid.inline"
 import mermaidStyle from "../../components/styles/mermaid.inline.scss"
+// @ts-ignore
+import svgpanzoomScript from "../../components/scripts/svgpanzoom.inline"
 import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
@@ -37,6 +40,7 @@ export interface Options {
   wikilinks: boolean
   callouts: boolean
   mermaid: boolean
+  svgpanzoom: boolean
   plantuml: boolean
   parseTags: boolean
   parseArrows: boolean
@@ -54,6 +58,7 @@ const defaultOptions: Options = {
   wikilinks: true,
   callouts: true,
   mermaid: true,
+  svgpanzoom: true,
   plantuml: true,
   parseTags: true,
   parseArrows: true,
@@ -862,6 +867,23 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
           content: mermaidStyle,
           inline: true,
         })
+      }
+
+      if (opts.svgpanzoom) {
+        
+        js.push({
+          src: "/static/panzoom.js", //joinSegments("panzoom.js"),
+          loadTime: "afterDOMReady",
+          contentType: "external"
+        })   
+
+        js.push({
+          script: svgpanzoomScript,
+          loadTime: "afterDOMReady",
+          contentType: "inline",
+          moduleType: "module",
+        })
+     
       }
 
       return { js, css }
