@@ -20,3 +20,13 @@ svg[data-diagram-type] a text {
 svg[data-diagram-type="ACTIVITY"] a text {
   fill: #000000;
 }
+
+svg.excalidraw-svg {
+  max-width: 100%;
+  height: 100%;
+  width: 100%;
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
