@@ -598,36 +598,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
               anode.parent.children.splice(anode.index, 1, newNode)
           }
         }
-      })
-
-              /*
-              
-                const url = "https://www.plantuml.com/plantuml/svg/" + encoded
-                //const resultPromise = new Promise((resolve, reject) => {
-                //    resolve(fetch(url))
-                //})
-                return async (_file, tree) {
-                  
-                  fetch(url).then(res => {
-                  console.log('HELLO ' + res)
-                  
-                  const newNode: Html = {
-                    type: "html",
-                    value: `<p>**** RE COUCOU</p>`,
-                  }
-                  parent.children.splice(index, 1, newNode)
-                  return SKIP
-                })
-                .catch(err => {
-                    console.error("Error in fetching plantuml svg:", err)
-                    return SKIP
-                })      
-                    */        
-            
-          
-      }
-
-
+      })  
+    }
       return plugins
     },
     htmlPlugins() {
@@ -835,7 +807,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
       return plugins
     },
-    externalResources() {
+    externalResources(ctx) {
       const js: JSResource[] = []
       const css: CSSResource[] = []
 
@@ -872,11 +844,11 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
       if (opts.svgpanzoom) {
         
         js.push({
-          src: "/static/panzoom.js", //joinSegments("panzoom.js"),
+          src: ctx.cfg.configuration.baseUrl + "/static/panzoom.js", //joinSegments("panzoom.js"),
           loadTime: "afterDOMReady",
           contentType: "external"
-        })   
-
+        }) 
+        
         js.push({
           script: svgpanzoomScript,
           loadTime: "afterDOMReady",
