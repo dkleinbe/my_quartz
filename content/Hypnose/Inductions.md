@@ -55,7 +55,7 @@ state "Induction" as IND {
 - [[Hypnose/Induction - Questionnement Hypnotique\|Questionnement Hypnotiques]]
 - Souvenir hypnotique
 - Vision périphérique
-- Spirale sensorielle
+- [[Hypnose/Induction - Spirale Sensorielle\|Spirale sensorielle]]
 - Contraction/Décontraction
 - Association/Dissociation
 - Saturation
