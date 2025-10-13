@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"24.03.2025 - 18:45","modified":"24.03.2025 - 19:20","cssclasses":""}
+{"publish":true,"created":"2025.06.18 13:54","modified":"2025.10.12 16:35","cssclasses":""}
 ---
 
 
@@ -44,7 +44,8 @@ Le patient est contrôlé par ses perceptions, sa vigilance, ses émotions, et n
 Développement de l'individu, depuis l'œuf fécondé jusqu'à l'état adulte. (S'oppose à [phylogenèse](https://www.larousse.fr/dictionnaires/francais/phylogen%C3%A8se/60594).)
 
 ---
+
 # Douleurs neuropathiques
 
-La douleur neuropathique résulte d'une lésion ou d'un dysfonctionnement du système nerveux central ou périphérique, plus que d'une stimulation des récepteurs de la douleur.
+La douleur neuropathique résulte d'une lésion ou d'un dysfonctionnement du système nerveux central ou périphérique, plus que d'une stimulation des récepteurs de la douleur.  
 Source: [Le manuel MSD](https://www.msdmanuals.com/fr/professional/troubles-neurologiques/douleur/douleur-neuropathique)

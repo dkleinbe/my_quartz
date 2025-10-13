@@ -5,11 +5,12 @@
 
 # Phénomènes Hypnotiques
 
-## Catalepsie
+- Catalepsie
+- Levitation de la main
+- Signal idéomoteur "Signaling"
+- Anesthésie (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=107&selection=103,0,110,3|Livret Cycle 1 - Technicien 2, p.107]])
+- Amnésie 
 
-## Levitation de la main
-
-## Signal idéomoteur "Signaling"
 
 
 

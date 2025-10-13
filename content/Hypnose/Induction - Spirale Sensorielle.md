@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.07.24 11:43","modified":"2025.09.30 17:06","tags":["hypnose","induction"],"cssclasses":""}
+{"publish":true,"created":"2025-10-08 02:08:46","modified":"2025.09.30 17:06","tags":["hypnose","induction"],"cssclasses":""}
 ---
 
 
@@ -9,10 +9,15 @@
 
 Le but de la spirale sensorielle est de faire entrer le sujet en transe par une focalisation alternée sur les trois grandes modalité sensorielles (Visuelle, Auditive, Kinesthésique). A l'aide de suggestions et de descriptions focalisées sur un sens puis le suivant on focalise l'attention du sujet, jusqu'à saturer sa concentration.
 
-On utilise des boucles 1 avec n ratifications suivi d'une suggestion successivement pour les 3 sens, n décroit au fur et à mesure des itérations.
+On utilise des boucles 1 avec N ratifications suivi d'une suggestion successivement pour les 3 sens, N décroit au fur et à mesure des itérations.
 ## DPH
 
-*«»*
+*« D'ordinaire, en temps normal, on utilise nos sens sans y penser, inconsciemment. On entend, on voit, on touche sans y prêter attention et on utilise toutes ces informations pour construire une représentation de notre environment. Cette représentation nous est propre, En regardant le même tableau ou en écoutant la même musique deux personnes vont avoir des ressentis peut-être très différents. Et même pour une même personne, dans des situations différente, les ressentis peuvent être différents. Par exemple un coucher de soleil, suivant le contexte peut inspirer de la joie, de l'excitation ou alors à un autre moment un sentiment plus contemplatif plus méditatif. La même musique peut parfois nous pousser à danser et dans une autre situation nous emmener dans la mélancolie, les souvenirs. Tout ça pour dire que nos sens sont très connectés à nos émotions, nos sensations sont influencées par nos état internes et inversement»*
+
+*« Je te propose une expérience hypnotiques qui met en jeu nos sens pour entrer dans cet état d'hypnose. Dans un instant, je vais te demander de prêter une attention particulière à tes sens, tour à tour la vision, l'audition, le touché. Et tu pourras remarquer comme en observant ces actions automatiques, en générale inconscientes, ça nous entraîne dans un état de conscience modifié, un état d'hypnose. Un peu comme si observer consciemment des choses inconscientes nous emmène dans des partie plus inconscientes de nous même. Dans cet état d'hpnose, certaines personnes personnes se sentent comme absorbée à l'interieur d'elle même, d'autres au contraire s'évadent dans un imaginaire très réel. Ce n'est pas un état passif, souvent on observe des mouvements inconscients qui apparaissent, Dans cet état d'hypnose, il y a des modifications de nos fonctionnements internes, la respiration change, les sensations aussi changes , certaines personnes ressentent de la légèreté, d'autres de la  chaleur. »*
+
+connecté à ses sens on peut aussi se connecter à ses émotions ses ressentis, Comme
+<font color="#00FF00"> This text is red </font>
 
 ## Chemin désiré
 
