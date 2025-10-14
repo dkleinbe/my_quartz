@@ -2,7 +2,7 @@
 {"publish":true,"created":"03.07.2025 - 17:45","modified":"03.07.2025 - 17:49","tags":["hypnose"],"cssclasses":""}
 ---
 
-# Tests Hypnotiques
+# Induction -Tests Hypnotiques
 
 ## Objectif
 
@@ -23,7 +23,7 @@ Exemple de tests :
 - Avant / arrière (debout, bascule) 
 - Accélérer la respiration / ralentir les rythmes.
 
-### Séquence
+## Séquence
 
 ```plantuml-svg
 skinparam svgDimensionStyle false
