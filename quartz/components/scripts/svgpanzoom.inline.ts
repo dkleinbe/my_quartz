@@ -18,11 +18,11 @@ document.addEventListener("nav", async () => {
   function switchmotion(bt, ind) {
     if (! instance[ind].isPaused()) {
       instance[ind].pause()
-      bt.textContent = "start"   
+      bt.textContent = "motion on"   
     }
     else {
       instance[ind].resume()
-      bt.textContent = "stop"
+      bt.textContent = "motion off"
     }
   }
   
@@ -30,10 +30,23 @@ document.addEventListener("nav", async () => {
   const svgs = [...document.querySelectorAll('svg.panzoom')]
   svgs.forEach((svg, index) => {
     
+    const div = document.createElement("div")
+    div.className = "svgpanzoom-container"
+    
+
     const button = document.createElement("button")
-    button.textContent = "stop"
+    button.textContent = "motion off"
     button.className = "svgpanzoom-motion-button"
-    svg.parentNode?.appendChild(button)
+    
+    /*
+     * - div
+     *   - svg
+     *   - button
+    */
+    svg.parentNode?.appendChild(div)
+    div.appendChild(svg)
+    div.appendChild(button)
+
     button.addEventListener("click",() => switchmotion(button, index))
     window.addCleanup(() => button.removeEventListener("click", () => switchmotion(button, index)))
 
@@ -53,13 +66,13 @@ document.addEventListener("nav", async () => {
       }
     }
     svg.appendChild(g)
+    
     // @ts-ignore
-    
-    
     instance[index] = panzoom(g, {
       bounds: true,
       boundsPadding: 0.1,
     })
+    
   })
 
 })

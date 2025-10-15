@@ -21,6 +21,23 @@ svg[data-diagram-type="ACTIVITY"] a text {
   fill: #000000;
 }
 
+div.svgpanzoom-container {
+  display: inline-block;
+  position: relative;
+}
+
+button.svgpanzoom-motion-button {
+  position: absolute;
+  bottom: 30px;
+  left: 15px;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid var(--lightgray);
+  border-radius: 3px;
+  padding: 2px 5px;
+  cursor: pointer;
+}
+
 svg.panzoom {
   max-width: 100%;
   width: 100%;
