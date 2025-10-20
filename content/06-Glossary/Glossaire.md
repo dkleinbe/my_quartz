@@ -2,10 +2,15 @@
 {"publish":true,"created":"2025.06.18 13:54","modified":"2025.10.12 16:35","cssclasses":""}
 ---
 
+# Affects
+
+Réaction physiologique automatique aux perceptions pour se préparer à la situation. ^affects
+
+---
 
 # Anamnèse
 
-Ensemble des renseignements fournis au médecin par le malade ou par son entourage sur l'histoire d'une maladie ou les circonstances qui l'ont précédée
+Ensemble des renseignements fournis au médecin par le malade ou par son entourage sur l'histoire d'une maladie ou les circonstances qui l'ont précédée ^eb519a
 
 ---
 

@@ -17,7 +17,12 @@ Approche intégrative des différentes théories sur les émotions
 
 ### Affects
 
-Réaction physiologique automatique aux perceptions pour se préparer à la situation.  
+> [!hint] Def
+> Réaction physiologique automatique aux perceptions pour se préparer à la situation.  
+> Réaction physiologique automatique aux perceptions pour se préparer à la situation. 
+
+Réaction physiologique automatique aux perceptions pour se préparer à la situation. 
+
 
 Evaluation somato-sensoriel, combinaison de :
 
