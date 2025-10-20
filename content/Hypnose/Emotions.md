@@ -17,12 +17,8 @@ Approche intégrative des différentes théories sur les émotions
 
 ### Affects
 
-> [!hint] Def
-> Réaction physiologique automatique aux perceptions pour se préparer à la situation.  
+> [!info] Définition
 > Réaction physiologique automatique aux perceptions pour se préparer à la situation. 
-
-Réaction physiologique automatique aux perceptions pour se préparer à la situation. 
-
 
 Evaluation somato-sensoriel, combinaison de :
 
@@ -33,6 +29,9 @@ Evaluation somato-sensoriel, combinaison de :
 
 
 ### Cognitions
+
+> [!info] Définition
+> Interprétation des perceptions à partir de nos modèles internes.
 
 Interprétation des perceptions à partir de nos modèles internes :
 
@@ -64,7 +63,7 @@ Remémoration, ex : penser à un épisode de joie
 	Réactive la configuration neuro psychologique qui existait dans ce souvenir  
 	Activation de mémoires procédurales (liées aux apprentissages)
 
-> [!info] 2 types de séances possible  
+> [!info] 2 types de séances possibles  
 > Axes régulation émotionnelle (affects)  
 > ou  
 > Résolution de problématiques émotionnelles : mémoire procédurale

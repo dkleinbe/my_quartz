@@ -1,12 +1,25 @@
 ---
-{"publish":true,"created":"2025.06.18 13:54","modified":"2025.10.12 16:35","cssclasses":""}
+{"publish":true,"created":"2025.06.18 13:54","modified":"2025.10.20 13:43","cssclasses":""}
 ---
+
 
 # Affects
 
-Réaction physiologique automatique aux perceptions pour se préparer à la situation. ^affects
+> [!info] Définition
+> Réaction physiologique automatique aux perceptions pour se préparer à la situation. 
+
+^affects
 
 ---
+
+# Cognitions
+
+
+> [!info] Définition
+> Interprétation des perceptions à partir de nos modèles internes.
+
+^cognitions
+
 
 # Anamnèse
 
@@ -14,19 +27,10 @@ Ensemble des renseignements fournis au médecin par le malade ou par son entoura
 
 ---
 
-# Crétin
+# Douleurs neuropathiques
 
-*Abruti*
-
-A ton avis
-
----
-
-# définition
-
-Ceci est la définition d'une définition
-
----
+La douleur neuropathique résulte d'une lésion ou d'un dysfonctionnement du système nerveux central ou périphérique, plus que d'une stimulation des récepteurs de la douleur.  
+Source: [Le manuel MSD](https://www.msdmanuals.com/fr/professional/troubles-neurologiques/douleur/douleur-neuropathique)
 
 # Hypnoanalgésie
 
@@ -49,8 +53,3 @@ Le patient est contrôlé par ses perceptions, sa vigilance, ses émotions, et n
 Développement de l'individu, depuis l'œuf fécondé jusqu'à l'état adulte. (S'oppose à [phylogenèse](https://www.larousse.fr/dictionnaires/francais/phylogen%C3%A8se/60594).)
 
 ---
-
-# Douleurs neuropathiques
-
-La douleur neuropathique résulte d'une lésion ou d'un dysfonctionnement du système nerveux central ou périphérique, plus que d'une stimulation des récepteurs de la douleur.  
-Source: [Le manuel MSD](https://www.msdmanuals.com/fr/professional/troubles-neurologiques/douleur/douleur-neuropathique)
