@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.10.17 11:23","modified":"2025.10.21 17:27","tags":["hypnose"],"cssclasses":""}
+{"publish":true,"created":"2025.10.17 11:23","modified":"2025.10.21 17:27","tags":["hypnose","théorie"],"cssclasses":""}
 ---
 
 
