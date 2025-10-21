@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.10.17 11:26","modified":"2025.10.17 15:16","tags":["hypnose"],"cssclasses":""}
+{"publish":true,"created":"2025.10.17 11:26","modified":"2025.10.20 18:24","tags":["hypnose"],"cssclasses":""}
 ---
 
 
@@ -14,6 +14,18 @@ cf. [[Livret Cycle 1 - Praticien.pdf#page=12&selection=7,0,9,12|Livret Cycle 1 -
 Approche intégrative des différentes théories sur les émotions
 
 ![[Hypnose/attachements/Emotions.png]]
+
+### Perceptions
+
+#### Perception internes (intéroception)
+
+> [!info] Définition
+> Ce que l'on ressent dans notre corps, tension, fatigue, boule au ventre, etc.
+
+#### Perception externe (extéroception)
+
+> [!info] Définition
+> Ce que l'on perçoit par nos sens, vue, touché, etc.
 
 ### Affects
 
@@ -42,35 +54,37 @@ Interprétation des perceptions à partir de nos modèles internes :
 
 ### Modes d'actions
 
-Influence de nos affects et cognitions sur notre comportement.  
-Impact sur le monde, le corps
+Influence de nos [[06-Glossary/Glossaire#^affects\|affects]] et cognitions sur notre comportement.  
+Impact sur le monde, le corps, la perception et l'attention (réseau de saillances)
 
 ## Ressenti vs Traitement émotionnel
 
 ### Ressenti émotionnel
 
-Ne tient pas comte de la composante cognitive.
+Emotion qui ne tient pas comte de la composante cognitive.
 
-Boucle introspective :
+Boucle intéroceptive :
 
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 279.8198547363281 157.03605189297667" filter="invert(93%) hue-rotate(180deg)" class="excalidraw-svg" style="max-width: 250px; height: auto;"><!-- svg-source:excalidraw --><metadata/><defs><style class="style-fonts">      @font-face { font-family: Excalifont; src: url(data:font/woff2;base64,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); }</style></defs><rect x="0" y="0" width="279.8198547363281" height="157.03605189297667" fill="transparent"/><g stroke-linecap="round"><g transform="translate(115.07152599312222 52.35648851808435) rotate(0 1.600067138671875 46.79998779296875)"><path d="M-1.04 -0.43 C4.37 1.61, 24.02 3.6, 32.41 11.11 C40.79 18.62, 48.77 32.91, 49.27 44.63 C49.77 56.35, 44 73.2, 35.42 81.43 C26.84 89.67, 9.15 94.27, -2.22 94.02 C-13.6 93.78, -25.28 87.07, -32.83 79.96 C-40.39 72.86, -45.49 60.01, -47.54 51.38 C-49.59 42.76, -47.85 34.94, -45.13 28.21 C-42.41 21.49, -33.68 13.86, -31.2 11.03 M0.61 -1.69 C6.41 0.55, 26.17 4.72, 34.67 12.1 C43.16 19.49, 51.35 30.87, 51.57 42.63 C51.8 54.38, 44.69 73.94, 36.04 82.61 C27.38 91.27, 11.4 95.15, -0.36 94.63 C-12.12 94.11, -26.71 86.37, -34.5 79.49 C-42.29 72.61, -45.17 61.89, -47.07 53.38 C-48.98 44.87, -48.81 35.74, -45.93 28.43 C-43.06 21.13, -32.54 12.49, -29.8 9.55" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(115.07152599312222 52.35648851808435) rotate(0 1.600067138671875 46.79998779296875)"><path d="M-34.68 19.53 C-33.56 15.85, -32.71 12.69, -29.8 9.55 M-34.68 19.53 C-33.31 16.19, -30.78 12.98, -29.8 9.55" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(115.07152599312222 52.35648851808435) rotate(0 1.600067138671875 46.79998779296875)"><path d="M-39.95 14.05 C-37.34 12.03, -34.95 10.46, -29.8 9.55 M-39.95 14.05 C-36.69 12.65, -32.3 11.36, -29.8 9.55" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g transform="translate(76.25693892357025 10) rotate(0 44.38996124267578 12.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Percevoir</text></g><g transform="translate(177.199951171875 98.74725480147674) rotate(0 46.30995178222656 12.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Ressentir</text></g><g transform="translate(10 93.14721818038299) rotate(0 18.869979858398438 12.5)"><text x="0" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Agir</text></g></svg>  
 
 
 ### Traitement de l'information émotionnelle
 
+L'émotion qui provient de l'interprétation de la situation. Les cognitions sont mises en jeu.
+
 Mémoire sémantique, ex : penser à la joie  
 Remémoration, ex : penser à un épisode de joie  
 	Réactive la configuration neuro psychologique qui existait dans ce souvenir  
 	Activation de mémoires procédurales (liées aux apprentissages)
 
-> [!info] 2 types de séances possibles  
+> [!tip] 2 types de séances possibles  
 > Axes régulation émotionnelle (affects)  
 > ou  
 > Résolution de problématiques émotionnelles : mémoire procédurale
 
 ## Ciblage
 
-Les techniques d'hypnotisme agissent sur les 5 points :
+Les techniques d'hypnotisme permettent d'agir sur les 5 points :
 
 - [[Hypnose/Emotions#Affects]]
 - [[Hypnose/Emotions#Cognitions]]
@@ -93,25 +107,27 @@ Les techniques d'hypnotisme agissent sur les 5 points :
 ### Piloter les cognitions
 
 - suggestion vers les mémoires sémantiques (association d'idées)
-	- PEUR / ATTAQUE --> Suggestions pour modifier les associations sémantiques liées aux percepts CALME / TRANQUILITE + sous modalités
+	- PEUR / ATTAQUE -->  CALME / TRANQUILITE
+	- modifier les associations sémantiques  
+		lier le percept (poule) et l'idée du calme / tranquillité (paysage, mer, etc...)
+
 - suggestion vers les mémoires procédurales
-	- modifier des apprentissages
+	- modifier des apprentissages  
+		le percept est présent, suggestions pour suivre le chemin désiré que mène à l'apprentissage du calme / tranquilité 
 
-### Locus de conceptualisation
-
-- suggestion d'externalisation de l'émotion et la localiser dans un lieu et la transformer
-
-ex: malaise intérieur, placer l'émotion à l'exterieur (terrasse café) et transformer l'ambiance
+-  suggestion vers le locus de conceptualisation
+	- suggestion d'externalisation de l'émotion et la localiser dans un lieu et la transformer  
+		ex: malaise intérieur, placer l'émotion à l'exterieur (terrasse café) et transformer l'ambiance
 
 ### Piloter le circuit ressenti émotionnel
 
 - Régulation immédiate et temporaire  
 	action sur les affects et les modes d'actions
+
 - Regulation affective pérenne  
-	Reconditionner des nouvelles associations affectives à des déclencheurs
+	reconditionner des nouvelles associations affectives à des déclencheurs
 
 ### piloter circuit de l'information
 
-Action conjointe sur les cognitions et les modes d'actions pour modifier les inférences, les anticipations liées aux interprétations cognitives, remémorations
-
+Action conjointe sur les cognitions et les modes d'actions pour modifier les inférences, les anticipations liées aux interprétations cognitives, remémorations, évocations.
 
