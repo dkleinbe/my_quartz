@@ -2,6 +2,24 @@
 {"publish":true,"created":"2025.06.18 13:54","modified":"2025.10.20 13:43","cssclasses":""}
 ---
 
+# Valeurs
+
+
+> [!info] Définition
+> Contents
+
+^valeurs
+
+---
+# Croyances
+
+> [!info] Définition
+> Forme d'idée, consciente ou inconsciente qui filtre la perception du monde et influence l'analyse, les émotions et les réactions.  
+> Apprentissage sans nécessité d'en faire l'expérience.
+
+^croyances
+
+---
 # Affects
 
 > [!info] Définition
