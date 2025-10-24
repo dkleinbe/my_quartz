@@ -38,13 +38,13 @@ A la sortie de la transe, après une petite digression, tester l'ancrage.
 
 ## DPH
 
-*« Notre cerveau fonctionne essentiellement par associations. 
-Il crée des liens entre des situations et des sensations. 
-Quand on rencontre une personne que l'on connait, on entre instantanément dans un état d'esprit lié à notre relation avec cette personne. Ca peut être la joie, la peur, l'enthousiasme.
-Une odeur, un parfum peuvent nous amener très rapidement dans des souvenirs et des émotions. 
-C'esr la même chose avec une musique à laquelle on a associé des moments forts. Simplement quelques notes suffisent à nous replonger dans le contexte auquel elle est ascociée.
-La plus part du temps ces associations sont inconscientes.
-Dans un état d'hypnose, on peut construire un lien entre un stimuli et un état émotionnel.
-Une fois le lien établit on peut en activant le stimuli retrouver instantanément l'état interne associé.
-Je te propose d'établir un lien entre un stimuli que tu vas choisir et l'état que tu souhaite pouvoir rappeler dans la situation où il est important pour toi. 
+*« Notre cerveau fonctionne essentiellement par associations.  
+Il crée des liens entre des situations et des sensations.  
+Quand on rencontre une personne que l'on connait, on entre instantanément dans un état d'esprit lié à notre relation avec cette personne. Ca peut être la joie, la peur, l'enthousiasme.  
+Une odeur, un parfum peuvent nous amener très rapidement dans des souvenirs et des émotions.  
+C'esr la même chose avec une musique à laquelle on a associé des moments forts. Simplement quelques notes suffisent à nous replonger dans le contexte auquel elle est associé.  
+La plus part du temps ces associations sont inconscientes.  
+Dans un état d'hypnose, on peut construire un lien entre un stimuli et un état émotionnel.  
+Une fois le lien établit on peut en activant le stimuli retrouver instantanément l'état interne associé.  
+Je te propose d'établir un lien entre un stimuli que tu vas choisir et l'état que tu souhaite pouvoir rappeler dans la situation où il est important pour toi.  
 Dans cet état d'hypnose, je vais t'amené dans cet état et on va l'encrer. On va faire ça plusieurs fois, comme ça, plus tard quand tu voudras retrouver cet état tu n'auras qu'à réactiver ce stimuli. »*
