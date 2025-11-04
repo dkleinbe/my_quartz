@@ -16,9 +16,6 @@ On utilise des boucles 1 avec N ratifications suivi d'une suggestion successivem
 
 *« Je te propose une expérience hypnotiques qui met en jeu nos sens pour entrer dans cet état d'hypnose. Dans un instant, je vais te demander de prêter une attention particulière à tes sens, tour à tour la vision, l'audition, le touché. Et tu pourras remarquer comme en observant ces actions automatiques, en générale inconscientes, ça nous entraîne dans un état de conscience modifié, un état d'hypnose. Un peu comme si observer consciemment des choses inconscientes nous emmène dans des partie plus inconscientes de nous même. Dans cet état d'hpnose, certaines personnes personnes se sentent comme absorbée à l'interieur d'elle même, d'autres au contraire s'évadent dans un imaginaire très réel. Ce n'est pas un état passif, souvent on observe des mouvements inconscients qui apparaissent, Dans cet état d'hypnose, il y a des modifications de nos fonctionnements internes, la respiration change, les sensations aussi changes , certaines personnes ressentent de la légèreté, d'autres de la  chaleur. »*
 
-connecté à ses sens on peut aussi se connecter à ses émotions ses ressentis, Comme
-<font color="#00FF00"> This text is red </font>
-
 ## Chemin désiré
 
 ADU
