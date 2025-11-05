@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.09.30 17:18","modified":"2025.10.23 09:32","tags":["hypnose","protocole"],"cssclasses":""}
+{"publish":true,"created":"2025.09.30 17:18","modified":"2025.11.05 12:32","tags":["hypnose","protocole"],"cssclasses":""}
 ---
 
 
@@ -23,7 +23,7 @@
 - Sollicitation d'une partie inconsciente (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=86|Livret Cycle 1 - Technicien 2, p.86]])
 - Favoriser l'émergence d'idées nouvelles - Rossi (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=88&selection=9,0,31,12|Livret Cycle 1 - Technicien 2, p.88]])
 - [[Hypnose/Protocole -Transformer un symptôme en signal - Rossi\|Transformer un symptôme en signal - Rossi]] (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=90&selection=9,0,25,7|Livret Cycle 1 - Technicien 2, p.90]])
-- Le recadrage (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=93&selection=10,0,12,12|Livret Cycle 1 - Technicien 2, p.93]])
+- [[Hypnose/Protocole - Recadrage\|Le recadrage]] (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=93&selection=10,0,12,12|Livret Cycle 1 - Technicien 2, p.93]])
 - Les niveaux logiques (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=101&selection=10,0,12,20|Livret Cycle 1 - Technicien 2, p.101]])
 
 ## To sort
