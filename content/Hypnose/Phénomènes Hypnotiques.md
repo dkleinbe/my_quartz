@@ -6,7 +6,7 @@
 # Phénomènes Hypnotiques
 
 - Catalepsie
-- Levitation de la main
+- Levitation de la main (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=58&selection=9,4,13,25&color=yellow|Livret Cycle 1 - Technicien 2, p.58]])
 - Signal idéomoteur "Signaling"
 - Anesthésie (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=107&selection=103,0,110,3|Livret Cycle 1 - Technicien 2, p.107]])
 - Amnésie 

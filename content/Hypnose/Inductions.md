@@ -56,8 +56,8 @@ state "Induction" as IND {
 - Souvenir hypnotique (cf. [[Livret Cycle 1 - Technicien 1.pdf#page=98&selection=7,0,9,22|Livret Cycle 1 - Technicien 1, p.98]])
 - [[Hypnose/Induction - Vision périphérique\|Vision périphérique]] (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=39&selection=10,0,12,24|Livret Cycle 1 - Technicien 2, p.39]])
 - [[Hypnose/Induction - Spirale Sensorielle\|Spirale sensorielle]] (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=43&selection=10,0,10,26|Livret Cycle 1 - Technicien 2, p.43]])
-- Contraction/Décontraction (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=46&selection=9,0,11,11|Livret Cycle 1 - Technicien 2, p.46]])
-- Association/Dissociation (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=54&selection=9,0,11,26|Livret Cycle 1 - Technicien 2, p.54]])
+- Contraction-Décontraction (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=46&selection=9,0,11,11|Livret Cycle 1 - Technicien 2, p.46]])
+-  [[Hypnose/Induction - Association-Dissociation\|Association-Dissociation]] (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=54&selection=9,0,11,26|Livret Cycle 1 - Technicien 2, p.54]])
 - Saturation (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=51&selection=20,0,20,17|Livret Cycle 1 - Technicien 2, p.51]])
 - Confusion (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=49&selection=10,0,12,14|Livret Cycle 1 - Technicien 2, p.49]])
 - ...

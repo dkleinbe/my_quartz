@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.11.05 12:21","modified":"2025.11.07 12:17","tags":["hypnose","protocole"],"cssclasses":""}
+{"publish":true,"created":"2025.11.05 12:21","modified":"2025.11.07 16:09","tags":["hypnose","protocole"],"cssclasses":""}
 ---
 
 
@@ -14,6 +14,7 @@
 
 ## DPH
 
-Théorie des parties (métaphore)
-- Le fait de nommé fait existé  
-
+*« Dans l'hypnose Ericksonienne, il y a une théorie fondatrice qu'on appelle la théorie des parties. L'individu serait composé de plusieurs parties, chacune en charge de gérer différents comportements et l'ensemble de ces parties interagissent ensemble et coopèrent, ou pas, pour nous permettre d'évoluer dans notre environnement dans les meilleures conditions possibles, ou en tout cas ce qu'elles considèrent être les meilleurs conditions possibles.  
+Alors bien sûr ces parties n'ont pas d'exsitance réelle, c'est une métaphore. Mais en hypnose, le fait de les nommer les fait exister.  
+Parfois ces parties, mettent en place des comportements pour réagir face à des situations. Et le comportement mis en place à un moment donné efficacement, peut dans certains cas, ne plus être le comportement adéquat, parce que les choses ont évolué et que ce n'est plus le meilleur comportement à adopter dans cette situation.  
+En revanche, comme changer un comportement, c'est quelque chose qui demande de l'énergie à notre cerveau, il a tendance à vouloir conserver le comportement qu'il a mis en place précédemment. Et il agit toujours de la même façon, même si comportement n'est plus complètement adapté. Et si d'autres parties de nous aimeraient bien que les choses se passent différemment. »*
