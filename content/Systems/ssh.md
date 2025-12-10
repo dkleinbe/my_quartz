@@ -1,6 +1,6 @@
-```
-PasswordAuthentication yes
-```5
+---
+{"publish":true,"created":"18.06.2025 - 13:53","modified":"23.07.2025 - 14:09","tags":["linux","ssh"],"cssclasses":""}
+---
 
 
 # ssh
@@ -11,7 +11,7 @@ PasswordAuthentication yes
 
 - Generate a public key using `ssh-keygen`
 - Enable passwd authentication sur le serveur (see [[Systems/ssh#sur le serveur]])
-- Copy your public key:
+- Copy your public key: 
 
 ```
 ssh-copy-id -i ~/.ssh/id_rsa.pub USER@HOST -p PORT
@@ -23,7 +23,9 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub USER@HOST -p PORT
 
 -  Re-enable passwd authentication in `/etc/ssh/sshd_config`
 
->>>>>>1
+```
+PasswordAuthentication yes
+```
 
 Then restart the service:
 
