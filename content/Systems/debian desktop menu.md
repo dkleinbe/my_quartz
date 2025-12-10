@@ -7,7 +7,7 @@ source: [Desktop Menu Specification](https://specifications.freedesktop.org/menu
 
 ## File locations  
 
-Files involved in this specification are located according to the "desktop base directory specification".
+Files involved in this specification are located according to the "==desktop base directory specification==".
 
 Here are the files defined by this specification:
 
