@@ -1,6 +1,64 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+:root {
+	--instruction-color: #c00000;
+	--sugg_dir-color: #e36c09;
+	--presuppose-color: #4f81bd;
+	--double_lien-color: #76923c;
+	--negation-color: #953734;
+	--saupoudrage-color: #d99694;
+	--evocation-color: #b2a2c7;
+}
+
+.hltr-instruction, mark.hltr-instruction, .markdown-preview-view mark.hltr-instruction {
+	
+    background: initial !important;
+	color: var(--instruction-color) !important;
+	padding: initial !important;
+}
+
+.hltr-sugg_dir, mark.hltr-sugg_dir, .markdown-preview-view mark.hltr-sugg_dir {
+	
+    background: initial !important;
+	color: var(--sugg_dir-color) !important;
+	padding: initial !important;
+}
+
+.hltr-presuppose, mark.hltr-presuppose, .markdown-preview-view mark.hltr-presuppose {
+	
+    background: initial !important;
+	color: var(--presuppose-color) !important;
+	padding: initial !important;
+}
+
+.hltr-double_lien, mark.hltr-double_lien, .markdown-preview-view mark.hltr-double_lien {
+	
+    background: initial !important;
+	color: var(--double_lien-color) !important;
+	padding: initial !important;
+}
+
+.hltr-negation, mark.hltr-negation, .markdown-preview-view mark.hltr-negation {
+	
+    background: initial !important;
+	color: var(--negation-color) !important;
+	padding: initial !important;
+}
+
+.hltr-saupoudrage, mark.hltr-saupoudrage, .markdown-preview-view mark.hltr-saupoudrage {
+	
+    background: initial !important;
+	color: var(--saupoudrage-color) !important;
+	padding: initial !important;
+}
+
+.hltr-evocation, mark.hltr-evocation, .markdown-preview-view mark.hltr-evocation {
+	
+    background: initial !important;
+	color: var(--evocation-color) !important;
+	padding: initial !important;
+}
 
 // unset rules for <tex> included in svg
 svg text {
