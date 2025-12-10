@@ -1,8 +1,6 @@
-```
-.venv\Scripts\activate.bat
-pip
->python -c "import torch; print('CUDA enabled:', torch.cuda.is_available());" 
-```8
+---
+{"publish":true,"created":"2025.12.03 19:11","modified":"2025.12.05 18:13","tags":["transcription","application"],"cssclasses":""}
+---
 
 
 # WhisperX
@@ -23,7 +21,11 @@ Install whisperX
 
 [GitHub - m-bain/whisperX: WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)](https://github.com/m-bain/whisperX)
 
->>>>>>1
+```
+.venv\Scripts\activate.bat
+pip
+>python -c "import torch; print('CUDA enabled:', torch.cuda.is_available());" 
+```
 
 Install PyTorch 2.8.0 cuda
 

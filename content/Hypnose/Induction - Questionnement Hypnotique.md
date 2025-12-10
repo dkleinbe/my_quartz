@@ -14,10 +14,10 @@ Cette forme d’accompagnement permet d’éviter les résistances puisque c’e
 ## DPH
 
 *«<mark class="hltr-instruction">Tu vas explorer par toi même la façon dont tu entres facilement dans <mark class="hltr-saupoudrage">un état de conscience modifiée</mark></mark>.
-Petit à petit tu vas trouver le meilleur chemin pour atteindre cet état d'hypnose.
-Comme c'est toi qui construit le chemin ce sera le plus adapté pour modifier ton état de conscience.
+<mark class="hltr-presuppose">Petit à petit tu vas trouver le meilleur chemin pour atteindre</mark> <mark class="hltr-saupoudrage">cet état d'hypnose</mark>.
+Comme c'est toi qui construit le chemin ce sera le plus adapté pour modifier <mark class="hltr-saupoudrage">ton état de conscience</mark>.
 Je te guiderai dans les étapes et tu verras qu'à chaque étape cet état se modifiera de plus en plus.
-Dans un instant, je te poserai une première question, tu pourras y répondre consciemment dans ton état présent/ordinaire, ensuite je te poserai d'autres questions et tu verras qu'à mesure que ton état de conscience se modifie il faudra aller chercher plus loin les réponses, c'est normal et ça indique que tu entres dans un état modifié de conscience.
+Dans un instant, je te poserai une première question, tu pourras y répondre consciemment dans ton état présent/ordinaire, ensuite je te poserai d'autres questions et tu verras qu'à mesure que ton <mark class="hltr-saupoudrage">état de conscience se modifie</mark> il faudra aller chercher plus loin les réponses, c'est normal et ça indique que tu entres <mark class="hltr-saupoudrage">dans un état modifié de conscience</mark>.
 Tu pourras observer attentivement les changements dans ton corps et dans tes sensations.
 C'est bon pour toi, tu es prêt à emprunter ce chemin ?»* 
 
