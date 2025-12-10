@@ -1,7 +1,6 @@
-```bash
-    sudo apt update
-    sudo apt install nvidia-driver firmware-misc-nonfree
-```8
+---
+{"publish":true,"created":"08.03.2024 - 22:53","modified":"19.05.2024 - 19:07","tags":["linux","debian","nvidia","kb"],"cssclasses":""}
+---
 
 
 # nVidia driver
@@ -19,7 +18,10 @@ _Source:[fr/NvidiaGraphicsDrivers - Debian Wiki](https://wiki.debian.org/fr/Nvid
 
 2. Mettez à jour la liste des paquets disponibles, puis installez le paquet [nvidia-driver](https://packages.debian.org/nvidia-driver "DebianPkg"), ainsi que le micrologiciel nécessaire :
 
->>>>>>1    
+```bash
+    sudo apt update
+    sudo apt install nvidia-driver firmware-misc-nonfree
+```    
 
 DKMS construira le module nvidia pour votre système via le paquet [nvidia-kernel-dkms](https://packages.debian.org/nvidia-kernel-dkms "DebianPkg").
 

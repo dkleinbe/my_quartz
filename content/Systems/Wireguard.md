@@ -1,6 +1,6 @@
-```bash
-scp denis@rasp-ferret:configs/debian-tipi.conf vpn_debian-tipi.conf
-```0
+---
+{"publish":true,"created":"10.03.2024 - 16:33","modified":"26.07.2024 - 14:35","tags":["linux","debian","network","vpn","wireguard","raspberry"],"cssclasses":""}
+---
 
 
 # Wireguard
@@ -42,7 +42,9 @@ sudo pivpn -a
 
 - get config file
 
->>>>>>1
+```bash
+scp denis@rasp-ferret:configs/debian-tipi.conf vpn_debian-tipi.conf
+```
 
 - then import config see: [[Systems/Wireguard#Create config from wireguard server export\|Create config from wireguard server export]]
 

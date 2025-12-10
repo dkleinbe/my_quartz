@@ -1,7 +1,6 @@
-```bash
-git branch -d <branch_name>
-git branch -D <branch_name>
-```4
+---
+{"publish":true,"created":"2025.09.04 15:22","modified":"2025.09.11 16:21","tags":["dev","git","kb"],"cssclasses":""}
+---
 
 
 # GIT
@@ -52,7 +51,10 @@ source: [version control - How do I delete a Git branch locally and remotely? - 
 
 To delete the _**local**_ branch, use one of the following:
 
->>>>>>4
+```bash
+git branch -d <branch_name>
+git branch -D <branch_name>
+```
 
 - The `-d` option is an alias for `--delete`, which only deletes the branch if it has already been fully merged in its upstream branch.
 - The `-D` option is an alias for `--delete --force`, which deletes the branch "irrespective of its merged status." [Source: `man git-branch`]

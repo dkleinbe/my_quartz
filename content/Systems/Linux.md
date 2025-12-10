@@ -1,17 +1,6 @@
-```
-System:  
-  Host: debian-papa Kernel: 6.1.0-13-amd64 arch: x86_64 bits: 64  
-    Desktop: GNOME v: 43.6 Distro: Debian GNU/Linux 12 (bookworm)  
-Machine:  
-  Type: Laptop System: ASUSTeK product: X405UA v: 1.0  
-    serial: <superuser required>  
-  Mobo: ASUSTeK model: X405UA v: 1.0 serial: <superuser required>  
-    UEFI: American Megatrends v: X405UA.305 date: 04/16/2019  
-Audio:  
-  Device-1: Intel Sunrise Point-LP HD Audio driver: snd_hda_intel  
-  API: ALSA v: k6.1.0-13-amd64 status: kernel-api  
-  Server-1: PipeWire v: 0.3.65 status: active
-```2
+---
+{"publish":true,"created":"2025.08.03 12:05","modified":"2025.08.13 15:07","tags":["linux","kb"],"cssclasses":""}
+---
 
 
 # Linux
@@ -32,9 +21,7 @@ crul -T file_to_uload.jpg-u "login:passwd" ftp://ftpserver.com/
 
 ## Commands
 
-### Colored output with ```bash
-inxi -SMA
-```3
+### Colored output with `less`
 
 - `less -R`
 
@@ -56,11 +43,26 @@ sudo apt install inxi
 
 Check info
 
->>>>>>3
+```bash
+inxi -SMA
+```
 
 Output: 
 
->>>>>>4
+```
+System:  
+  Host: debian-papa Kernel: 6.1.0-13-amd64 arch: x86_64 bits: 64  
+    Desktop: GNOME v: 43.6 Distro: Debian GNU/Linux 12 (bookworm)  
+Machine:  
+  Type: Laptop System: ASUSTeK product: X405UA v: 1.0  
+    serial: <superuser required>  
+  Mobo: ASUSTeK model: X405UA v: 1.0 serial: <superuser required>  
+    UEFI: American Megatrends v: X405UA.305 date: 04/16/2019  
+Audio:  
+  Device-1: Intel Sunrise Point-LP HD Audio driver: snd_hda_intel  
+  API: ALSA v: k6.1.0-13-amd64 status: kernel-api  
+  Server-1: PipeWire v: 0.3.65 status: active
+```
 
 ### System logs
 

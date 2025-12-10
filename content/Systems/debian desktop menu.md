@@ -1,4 +1,6 @@
-`$XDG_CONFIG_DIRS/menus/${XDG_MENU_PREFIX}applications.menu`0
+---
+{"publish":true,"created":"16.03.2024 - 17:07","modified":"25.10.2024 - 17:03","tags":["debian","linux","gnome"],"cssclasses":""}
+---
 
 
 # debian gnome desktop menu
@@ -11,7 +13,7 @@ Files involved in this specification are located according to the "==desktop bas
 
 Here are the files defined by this specification:
 
-- >>>>>>1  
+- `$XDG_CONFIG_DIRS/menus/${XDG_MENU_PREFIX}applications.menu`  
 
 This file contains the XML definition of the main application menu layout. The first file found in the search path should be used; other files are ignored. This implies that if the user has their own `${XDG_MENU_PREFIX}applications.menu`, it replaces the system wide one. (Though the user's menu may explicitly merge the system wide one.)
 
