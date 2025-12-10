@@ -43,7 +43,7 @@ state "Induction" as IND {
 ## Phase I - préparation
 
 - [[Hypnose/Discours pré-hypnothique]]
-- [[Hypnose/Chemins hypnotiques]]
+- [[Hypnose/Chemins Effets]]
 
 ## Phase II - début d'induction
 

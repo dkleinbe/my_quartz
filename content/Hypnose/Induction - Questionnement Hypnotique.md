@@ -9,11 +9,17 @@
 
 Le but du questionnement hypnotique est de faire imaginer à votre sujet, étape après étape, l’entrée dans un état d’hypnose tout en lui faisant expérimenter ce qu’il propose.
 
-Cette forme d’accompagnement permet d’éviter les résistances puisque c’est le sujet qui construit lui- même son avancée : tout vient de lui. Il ne peut alors qu’expérimenter ce qu’il propose et invente.
+Cette forme d’accompagnement permet d’éviter les résistances puisque c’est le sujet qui construit lui- même son avancée : tout vient de lui. Il ne peut alors qu’expérimenter ce qu’il <mark class="hltr-green">propose</mark> et <mark style="background: #BBFABBA6;">invente</mark>.
 
 ## DPH
 
-*«Tu vas explorer par toi même la façon dont tu entres facilement dans un état de conscience modifiée. Petit à petit tu vas trouver le meilleur chemin pour atteindre cet état d'hypnose. Comme c'est toi qui construit le chemin ce sera le plus adapté pour modifier ton état de conscience. Je te guiderai dans les étapes et tu verras qu'à chaque étape cet état se modifiera de plus en plus. Dans un instant, je te poserai une première question, tu pourras y répondre consciemment dans ton état présent/ordinaire, ensuite je te poserai d'autres questions et tu verras qu'à mesure que ton état de conscience se modifie il faudra aller chercher plus loin les réponses, c'est bon signe :) Tu pourras observer attentivement les changements dans ton corps et dans tes sensations. C'est bon pour toi, tu es prêt à emprunter ce chemin ?»*
+*«<mark class="hltr-instruction">Tu vas explorer par toi même la façon dont tu entres facilement dans <mark class="hltr-saupoudrage">un état de conscience modifiée</mark></mark>.
+Petit à petit tu vas trouver le meilleur chemin pour atteindre cet état d'hypnose.
+Comme c'est toi qui construit le chemin ce sera le plus adapté pour modifier ton état de conscience.
+Je te guiderai dans les étapes et tu verras qu'à chaque étape cet état se modifiera de plus en plus.
+Dans un instant, je te poserai une première question, tu pourras y répondre consciemment dans ton état présent/ordinaire, ensuite je te poserai d'autres questions et tu verras qu'à mesure que ton état de conscience se modifie il faudra aller chercher plus loin les réponses, c'est normal et ça indique que tu entres dans un état modifié de conscience.
+Tu pourras observer attentivement les changements dans ton corps et dans tes sensations.
+C'est bon pour toi, tu es prêt à emprunter ce chemin ?»* 
 
 ## Chemin désiré
 
