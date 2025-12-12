@@ -58,6 +58,7 @@ Dans cet état d'hpnose, certaines personnes personnes se sentent comme absorbé
 Ce n'est pas un état passif, souvent on observe des mouvements inconscients qui apparaissent.  
 Dans cet état d'hypnose, il y a des modifications de nos fonctionnements internes, la respiration change, les sensations aussi changes , certaines personnes ressentent de la légèreté, d'autres de la  chaleur... »*
 
+^DPH-spirale
 
 ## Chemin désiré
 
@@ -97,4 +98,4 @@ ADU
 
 ## Induction
 
-TBD
+TBD...
