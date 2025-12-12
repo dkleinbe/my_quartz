@@ -5,6 +5,7 @@
 
 # Rhétorique  hypnotique
 
+<mark class="hltr-ratification">Ratification</mark>
 <mark class="hltr-instruction">Instruction</mark>  
 <mark class="hltr-sugg_dir">Suggestion directe</mark>  
 Suggestion indirecte

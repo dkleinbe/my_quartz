@@ -53,5 +53,3 @@ Processus prospectif neuro cognitif
 
 Le sujet a un rôle actif dans la construction de la représentation des objets de connaissance.  
 La perception comporte des a priori.
-
-![[Théories psychologiques 2025-11-04 18.48.24.excalidraw.svg]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"15.01.2022 - 17:45","modified":"21.03.2025 - 10:54","tags":["windows","kb"],"cssclasses":""}
+{"publish":true,"created":"2025.06.18 13:53","modified":"2025.12.11 11:29","tags":["windows","kb"],"cssclasses":""}
 ---
 
 
@@ -31,7 +31,6 @@ Commands:
   logout <account>  Remove a GitHub account.
 ```
 
-
 #### Add github credential with a TOKEN avec git-credential-manager
 
 `git-credential-manager.exe github login`
@@ -42,7 +41,7 @@ Commands:
 
 #### Check github credential dans windows
 
-Ouvrir :
+Ouvrir :  
 `Panneau de configuration\Comptes d’utilisateurs\Gestionnaire d'identification`
 
 ![[Systems/attachements/Windows-2.png|600]]
@@ -77,3 +76,25 @@ From now on, Alt+Tab will switch between all applications
 ## Disable hibernation (hyberfil.sys)
 
 - run `powercfg -h off`
+
+## Limit processor performance
+
+source: [Tuning the MSI Stealth GS65 Laptop for Less Heat and Fan Noise - Eric Cheng](https://echeng.com/articles/tuning-msi/)
+
+### **Disable Intel Turbo Boost**
+
+Stable, low heat. CPU will max out at 2.09GHz instead of ~3.9GHz, but has full GPU performance. Very quiet and cool.  
+Disable Intel Turbo Boost by setting max CPU to 98% (from 100%)
+
+- Control Panel->Power Options
+- Create a Power Plan (in left menu)
+- Select “Balanced” to start from, and change Plan Settings
+- Change Advanced Power Settings
+- Scroll down to “Processor power management”
+- Change “Maximum processor state” to 98% for both “On battery” and “Plugged in”
+
+Now, you can choose this power profile when you’re doing things that require GPU and not CPU, or when you just want super quiet, cool performance, like when the computer is on your lap. I’ve been switching to the processor-limited plan for daily use when I’m not editing or encoding video.
+
+![[Systems/attachements/Windows-3.png|400]]  
+
+You can use a utility called [PowerPlanSwitcher](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fp%2Fpowerplanswitcher%2F9nblggh556l3%3Factivetab%3Dpivot%253Aoverviewtab&h=AT3WX0jp1LsMLcq0r3E3-BLxB3h0z_pRolixlOWY0Joy9KFLtUFtPP3dFaqkLZKKoMRz4G27jXuPctVMG-YVY4WO8eND2LYUDGqNN5n9N-VDBweOUnYBrWBSFL4xP-TrCEwsV_P66aN2g8FhuZUb&__tn__=-UK-R&c[0]=AT27IyudpeJ6z57K5le8wZ37QrVI5WNGU1YYXHGx--bDJCns1lamJkr11vXDFey0mKmoxURqJuMKgoc5ANV0Ph2uZW7BEyKDwOOO9qdSP7M74qaoDHF36oEaStL_cKgxpb1CAhVmomrTjfX9n-fIraYEjz0KkRMwTyk) for two-click power plan changes from the taskbar.

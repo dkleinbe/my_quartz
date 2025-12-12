@@ -9,3 +9,5 @@
 - vidéo [Démo](https://www.arche-online.com/courses/take/technicien-2/lessons/58542432-demonstration-association-dissociation)
 - [[Hypnose/Induction - Association-Dissociation - transcription]]
 
+## Chemin d'effets
+
