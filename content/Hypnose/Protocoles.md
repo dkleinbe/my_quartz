@@ -8,7 +8,7 @@
 ## Ancrages
 
 - [[Hypnose/Protocole - Ancrage\|Ancrage]] (cf. [[Livret Cycle 1 - Technicien 1.pdf#page=142&selection=7,0,9,13|Livret Cycle 1 - Technicien 1, page 142]])
-- Désactivation d'ancrage (cf. [[Livret Cycle 1 - Technicien 1.pdf#page=148&selection=7,0,11,19|Livret Cycle 1 - Technicien 1, p.148]], [[Livret Cycle 1 - Technicien 2.pdf#page=95&selection=53,0,57,19|Livret Cycle 1 - Technicien 2, p.95]])
+- [[Hypnose/Protocole - Désactivation ancrage\|Désactivation d'ancrage]] (cf. [[Livret Cycle 1 - Technicien 1.pdf#page=148&selection=7,0,11,19|Livret Cycle 1 - Technicien 1, p.148]], [[Livret Cycle 1 - Technicien 2.pdf#page=95&selection=53,0,57,19|Livret Cycle 1 - Technicien 2, p.95]])
 - Technique des Phobies (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=97|Livret Cycle 1 - Technicien 2, p.97]])
 
 ## Projeter et entrer dans la projection

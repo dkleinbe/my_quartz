@@ -20,7 +20,7 @@ Signaling
 
 ## DPH
 
-*« Dans l'hypnose Ericksonienne, il y a une théorie fondatrice que l'on appelle la théorie des parties.  
+*« Dans l'hypnose Ericksonienne, il y a une théorie que l'on appelle la théorie des parties.  
 L'individu serait composé de plusieurs parties, chacune en charge de gérer différents comportements et l'ensemble de ces parties interagissent ensemble et coopèrent, ou pas, pour nous permettre d'évoluer dans notre environnement dans les meilleures conditions possibles, ou en tout cas ce qu'elles considèrent être les meilleurs conditions possibles.  
 Alors bien sûr ces parties n'ont pas d'exsitance réelle, c'est une métaphore.  
 Mais en hypnose, le fait de les nommer les fait exister.  
