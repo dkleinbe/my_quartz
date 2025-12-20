@@ -2,6 +2,7 @@
 
 // put your custom CSS here!
 :root {
+	--ratification-color: #4bacc6;
 	--instruction-color: #c00000;
 	--sugg_dir-color: #e36c09;
 	--presuppose-color: #4f81bd;
@@ -9,6 +10,13 @@
 	--negation-color: #953734;
 	--saupoudrage-color: #d99694;
 	--evocation-color: #b2a2c7;
+}
+
+.hltr-ratification, mark.hltr-ratification, .markdown-preview-view mark.hltr-ratification {
+	
+    background: initial !important;
+	color: var(--ratification-color) !important;
+	padding: initial !important;
 }
 
 .hltr-instruction, mark.hltr-instruction, .markdown-preview-view mark.hltr-instruction {
