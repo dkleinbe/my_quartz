@@ -3,7 +3,8 @@
 ---
 
 # Induction -Tests Hypnotiques
-
+-  (cf. [[Livret Cycle 1 - Technicien 1.pdf#page=61&selection=14,0,16,17|Livret Cycle 1 - Technicien 1, p.61]])
+- Transcription [[Hypnose/Transcriptions/T1 Tests hypno]]
 ## Objectif
 
 Montrer à la personne qu'elle peut créer sa séance sur mesure
@@ -17,8 +18,9 @@ Exemple de tests :
 
 - Centrer le sujet sur l’interne, le corps / sur le monde extérieur.
 - Centrer sur le visuel / sur l’auditif / sur le kinesthésique.
-- Créer de la détente / créer du dynamisme.
-- Créer de la concentration / créer du lâcher-prise.
+- Créer de la détente /  du dynamisme.
+- Créer de la légèreté / lourdeur
+- Créer de la concentration / lâcher-prise.
 - Centrer sur la droite / sur la gauche (lévitation de la main)
 - Avant / arrière (debout, bascule) 
 - Accélérer la respiration / ralentir les rythmes.
@@ -51,7 +53,9 @@ Ca permettra de savoir comment t'accompagner dans une séance qui va bien foncti
 - visuel / auditif / kinesthésique
 - intérieur - introspection / extérieur - déconnecté de soi ;
 
-group **tests**
+group **tests** { 
+
+
 
 while (pour tous les tests)
 :**Intro du test**
@@ -63,7 +67,7 @@ donner du sens;
 Questionnement;
 endwhile
 
-end group
+}
 
 :**Synthèse des résultats**;
 

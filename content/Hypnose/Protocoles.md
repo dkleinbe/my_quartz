@@ -33,8 +33,10 @@
 - Hiérarchiser les valeurs (cf. [[Livret Cycle 1 - Praticien.pdf#page=50&selection=11,0,13,21&color=yellow|Livret Cycle 1 - Praticien, p.50]])
 - Détermination d'objectif : état présent, état désiré (cf. [[Livret Cycle 1 - Praticien.pdf#page=53&selection=12,0,27,1&color=yellow|Livret Cycle 1 - Praticien, p.53]])
 - Le score (cf. [[Livret Cycle 1 - Praticien.pdf#page=62&selection=9,2,9,10&color=yellow|Livret Cycle 1 - Praticien, p.62]])
-- Négociation entre parties (cf. [[Livret Cycle 1 - Praticien.pdf#page=66&selection=9,0,11,23&color=yellow|Livret Cycle 1 - Praticien, p.66]])
+- [[Hypnose/Protocole - Négociation entre parties\|Négociation entre parties]] (cf. [[Livret Cycle 1 - Praticien.pdf#page=66&selection=9,0,11,23&color=yellow|Livret Cycle 1 - Praticien, p.66]])
 - Le switch (cf. [[Livret Cycle 1 - Praticien.pdf#page=133&selection=16,0,16,9&color=yellow|Livret Cycle 1 - Praticien, p.133]])
 - Recadrage par mise entre parenthèses (cf. [[Livret Cycle 1 - Praticien.pdf#page=142&selection=9,0,14,1&color=yellow|Livret Cycle 1 - Praticien, p.142]])
 - Nouveau recadrage (cf. [[Livret Cycle 1 - Praticien.pdf#page=136&selection=7,12,7,29&color=yellow|Livret Cycle 1 - Praticien, p.136]])
 - Les rêves (cf. [[Livret Cycle 1 - Praticien.pdf#page=139&selection=10,0,12,3&color=yellow|Livret Cycle 1 - Praticien, p.139]])
+- [[Hypnose/Protocole - Sous modalités\|Sous modalités]] (cf. > ([[Livret Cycle 1 - Technicien 1.pdf#page=137&selection=8,0,12,31&color=yellow|Livret Cycle 1 - Technicien 1, p.137]])
+

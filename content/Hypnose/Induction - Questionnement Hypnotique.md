@@ -15,10 +15,10 @@ Cette forme d’accompagnement permet d’éviter les résistances puisque c’e
 
 *«<mark class="hltr-instruction">Tu vas explorer par toi même la façon dont tu entres facilement dans <mark class="hltr-saupoudrage">un état de conscience modifiée</mark></mark>.
 <mark class="hltr-presuppose">Petit à petit tu vas trouver le meilleur chemin pour atteindre</mark> <mark class="hltr-saupoudrage">cet état d'hypnose</mark>.
-Comme c'est toi qui construit le chemin ce sera le plus adapté pour modifier <mark class="hltr-saupoudrage">ton état de conscience</mark>.
+<mark class="hltr-presuppose">Comme c'est toi qui construit le chemin ce sera le plus adapté pour modifier</mark> <mark class="hltr-saupoudrage">ton état de conscience</mark>.
 Je te guiderai dans les étapes et tu verras qu'à chaque étape cet état se modifiera de plus en plus.
 Dans un instant, je te poserai une première question, tu pourras y répondre consciemment dans ton état présent/ordinaire, ensuite je te poserai d'autres questions et tu verras qu'à mesure que ton <mark class="hltr-saupoudrage">état de conscience se modifie</mark> il faudra aller chercher plus loin les réponses, c'est normal et ça indique que tu entres <mark class="hltr-saupoudrage">dans un état modifié de conscience</mark>.
-Tu pourras observer attentivement les changements dans ton corps et dans tes sensations.
+<mark class="hltr-instruction">Tu pourras observer attentivement les changements dans ton corps et dans tes sensations</mark>.
 C'est bon pour toi, tu es prêt à emprunter ce chemin ?»* 
 
 ## Chemin désiré
@@ -40,7 +40,7 @@ start
 Tu vas explorer la façon dont tu expérimenterais un état de conscience modifé, la transe
 ;
 
-group **Questionnement**
+group **Questionnement** {
 
 : **Question inductive**
 Si vous deviez expérimenter un état hypnotique, quelle serait, à votre avis,
@@ -72,7 +72,7 @@ S'interresser à la transe de l'autre, la questionner
 ;
 
 repeat while (amplification)
-end group
+}
 
 :**Retour au présent**;
 

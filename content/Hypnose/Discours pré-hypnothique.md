@@ -88,4 +88,14 @@
 >
 >*« La séance va se prolonger intérieurement, même lorsque vous serez sorti de cet état d’hypnose. Votre part inconsciente sera libre de continuer ce travail dans le cadre qui a été défini.»*
 
+### Fusibles d'écologie
+
+Ref: [[Livret Cycle 1 - Technicien 2.pdf#page=103&selection=92,0,94,7|Livret Cycle 1 - Technicien 2, p.103]]
+
+Proposer que le changement soit mis en place pour une durée courte afin de valider qu’il correspond réellement aux attentes, qu’il est positif et intéressant à tous les niveaux.
+
+Indiquer qu’un retour en arrière reste possible
+ 
+Présupposer que le changement va continuer à évoluer, à s’affiner en fonction des expériences futures.
+
 

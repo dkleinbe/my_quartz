@@ -77,6 +77,9 @@ From now on, Alt+Tab will switch between all applications
 
 - run `powercfg -h off`
 
+## Reset graphic driver
+
+`<win>` + `<ctrl>` + `<shift>` + `B`
 ## Limit processor performance
 
 source: [Tuning the MSI Stealth GS65 Laptop for Less Heat and Fan Noise - Eric Cheng](https://echeng.com/articles/tuning-msi/)

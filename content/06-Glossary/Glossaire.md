@@ -43,6 +43,12 @@ Ensemble des renseignements fournis au médecin par le malade ou par son entoura
 
 ^cognitions
 
+# Constructivisme
+
+Le [constructivisme](https://fr.wikipedia.org/wiki/Constructivisme_(%C3%A9pist%C3%A9mologie)) en épistémologie est une théorie de la connaissance qui repose sur l'idée que notre image de la réalité, ou les notions structurant cette image, sont le produit de l'esprit humain en interaction avec cette réalité, et non le reflet exact de la réalité elle-même.
+
+^constructivisme
+
 ---
 # Douleurs neuropathiques
 
@@ -93,3 +99,10 @@ Le patient est contrôlé par ses perceptions, sa vigilance, ses émotions, et n
 Développement de l'individu, depuis l'œuf fécondé jusqu'à l'état adulte. (S'oppose à [phylogenèse](https://www.larousse.fr/dictionnaires/francais/phylogen%C3%A8se/60594).)
 
 ---
+
+# Phénoménologie
+
+La [phénoménologie](https://fr.wikipedia.org/wiki/Ph%C3%A9nom%C3%A9nologie#:~:text=La%20ph%C3%A9nom%C3%A9nologie%20est%20l'%C3%A9tude,ou%20dans%20un%20rapport%20%C3%A9crit.) est l'étude de phénomènes, étude dont la structure se fonde sur l’analyse directe de l’expérience vécue par un sujet.
+
+^phenomenologie
+
