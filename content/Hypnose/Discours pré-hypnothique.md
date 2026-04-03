@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025.09.21 16:09","modified":"2025.09.30 18:39","tags":["hypnose"],"cssclasses":""}
+{"publish":true,"created":"2025.09.21 16:09","modified":"2026.03.03 18:09","tags":["hypnose"],"cssclasses":""}
 ---
 
 
@@ -12,6 +12,12 @@
 - préparer le terrain et définir les concepts utilisés 
 - générer de l’envie 
 - contourner/annuler les résistances
+
+Répondre à :
+
+- Pourquoi ?
+- Comment ?
+- Et si ?
 
 ## Contenu 
 
@@ -97,5 +103,4 @@ Proposer que le changement soit mis en place pour une durée courte afin de vali
 Indiquer qu’un retour en arrière reste possible
  
 Présupposer que le changement va continuer à évoluer, à s’affiner en fonction des expériences futures.
-
 

@@ -37,7 +37,7 @@ Présupposé : l'émotion à
 
 - une couleur
 - une forme
-- une postion
+- une position
 - un mouvement
 
 que l'on peut faire varier

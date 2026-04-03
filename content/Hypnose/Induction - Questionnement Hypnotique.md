@@ -57,7 +57,7 @@ if (choix) then  (1)
 	Où est-ce que vous le ressentez en premier ?
 	;
 else (2)
-	:**Chercher un conséquance**
+	:**Chercher un conséquence**
 	Cela commencerait par une sensation de lourdeur ? 
 	Quand cette lourdeur apparaît, qu’est-ce qui en découle pour vous ? 
 	Qu’est-ce que cela amène d’autre en vous ?

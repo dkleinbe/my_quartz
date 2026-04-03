@@ -4,6 +4,7 @@
 
 # Cadrage de la séance
 
+- [[Livret Cycle 1 - Technicien 2.pdf#page=7&selection=20,0,28,6&color=yellow|Livret Cycle 1 - Technicien 2, p.7]]
 ## Préparation
 
 Objectif :
