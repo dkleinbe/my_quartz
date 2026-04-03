@@ -19,62 +19,62 @@ On va voir ça étape par étape.
 Il y a des moments où j'arrêterai la démonstration pour donner quelques explications et que vous puissiez bien suivre toutes les étapes de ce petit protocole qui est hyper utile au quotidien. »*
   
 Alors du coup, tu as quelque chose que tu aimerais bien désactiver.  
-	Oui.  
+~ Oui.  
 Est-ce que tu peux me dire en quelques mots ce que c'est et qu'est-ce que tu ressens par rapport à ça ?  
-	Donc il y a des habits qui, simplement l'idée de ces habits ou les voir me donne la nausée.  
-	Ça me rappelle des chimiothérapies que j'ai eues il y a trois ans.  
+~ Donc il y a des habits qui, simplement l'idée de ces habits ou les voir me donne la nausée.  
+~ Ça me rappelle des chimiothérapies que j'ai eues il y a trois ans.  
 D'accord, ok. Donc tu as associé certains vêtements ?  
-	Oui, que je mettais à cette époque-là pendant les chimios et qui du coup sont associés à ça.  
+~ Oui, que je mettais à cette époque-là pendant les chimios et qui du coup sont associés à ça.  
 D'accord, ok.  
 Et donc ça te donne une sensation de nausée, c'est ça ?  
-	Oui.  
+~ Oui.  
 Ok. Est-ce que rien que le fait d'en parler, là, tu le ressens un peu ?  
-	Là, tout de suite, non, mais il y a deux secondes quand je l'évoquais encore, oui.  
+~ Là, tout de suite, non, mais il y a deux secondes quand je l'évoquais encore, oui.  
 Si tu penses à ces vêtements là, ça vient à cette sensation-là ?  
-	Oui, j'ai envie de les jeter.  
+~ Oui, j'ai envie de les jeter.  
 Qu'est-ce que tu ressens dans le corps ?  
 C'est où, par exemple ?  
-	C'est plutôt là, du dégoût.  
+~ C'est plutôt là, du dégoût.  
 Sans forcément chercher à y repenser, là, comme ça.  
 Est-ce que je peux juste appuyer sur ton bras ?  
-	Oui.  
+~ Oui.  
 OK. Donc tu disais que quand tu penses à cette vie, ça crée du dégoût et c'est plutôt là, c'est ça ?  
-	Oui.  
+~ Oui.  
 D'accord, très bien.  
 
 *« Donc là, je viens de faire un petit ancrage négatif.  
 Je réexpliquerai après la notion de petit ancrage négatif »*
 
 Donc a priori, si j'appuie là, ça fait quoi ?  
-	C'est le dégoût.  
+~ C'est le dégoût.  
 Ok, super.  
 On va passer à un truc qui n'a rien à voir avec ça.  
 J'aimerais que tu me parles de quelque chose qui est vraiment important pour toi dans la vie.  
 Qu'est-ce qui devient en premier quand je te dis ça ?  
-	Quelque chose qui est vraiment important pour moi, à quel niveau ?  
+~ Quelque chose qui est vraiment important pour moi, à quel niveau ?  
 Je ne sais pas, ça peut être tous les niveaux, peut-être personnel, une passion, amicale, professionnelle, comme tu veux.  
-	Partager du temps de qualité avec mes proches.  
+~ Partager du temps de qualité avec mes proches.  
 Ok.  
 Imagine que tu partages du temps de qualité avec tes proches.  
 Ça peut être à quelle occasion que tu partages ça ?  
 À quelle occasion ?  
 Quel contexte idéal que t'imagines comme ça ?  
-	Je sais pas, avec plein d'amis ou avec un... Ouais, avec plein d'amis.  
-	Je peux changer.  
-	Je vais dire plutôt quelque chose que je fais toute seule, de dessiner.  
+~ Je sais pas, avec plein d'amis ou avec un... Ouais, avec plein d'amis.  
+~ Je peux changer.  
+~ Je vais dire plutôt quelque chose que je fais toute seule, de dessiner.  
 Tu aimes bien dessiner ?  
-	Oui.  
+~ Oui.  
 C'est une passion ?  
 Et danser.  
-	Plutôt danser.  
+~ Plutôt danser.  
 Ça te fait quoi quand tu danses ?  
 Qu'est-ce que tu vis quand tu danses ?  
 Là t'as un sourire qui fait qu'on voit bien que ça a l'air plutôt sympathique.  
 C'est technique comme danse ou c'est juste le fait de danser ?  
-	J'aime bien prendre des cours et j'aime bien danser pour moi ou la salsa.  
+~ J'aime bien prendre des cours et j'aime bien danser pour moi ou la salsa.  
 Connecte toi à ce que tu vis quand tu danses, la salsa ou quelque chose.  
 Qu'est-ce qui te vient quand tu penses à ça ?  
-	L'assurance, le lâcher prise, se défaire complètement du regard des autres et juste vivre le moment présent et ressentir dans le corps partout.  
+~ L'assurance, le lâcher prise, se défaire complètement du regard des autres et juste vivre le moment présent et ressentir dans le corps partout.  
 Repense à un souvenir où tu danses comme ça, où il y a tout ce que tu viens de dire, l'assurance, le plaisir, la sensation d'être connecté au corps.  
 Tes yeux sont fermés et progressivement, tu repenses à un moment où tu as vécu tout ça, un moment où tu es en train de danser.  
 Peut-être qu'il y a des images qui reviennent, des sensations qui reviennent, les mouvements, ce qui se passe dans le corps, l'assurance qui vient avec ça.  
@@ -92,15 +92,15 @@ Ouvre les yeux.
 Et même si parfois, quand on sort de trans, on reste encore un peu en trans au fond.  
 Tout en restant un peu connecté à ça, je vais te poser une question.  
 C'est quoi ton plat préféré ?  
-	Euh...  
-	Juste comme ça, en sortie de trans, c'est une question un peu... Je ne sais pas, le ceviche.  
+~ Euh...  
+~ Juste comme ça, en sortie de trans, c'est une question un peu... Je ne sais pas, le ceviche.  
 Le ceviche, ok. Quand tu penses à un bon ceviche, ça te fait quoi ?  
-	Ça me propulse au Pérou.  
+~ Ça me propulse au Pérou.  
 Au Pérou, ok. C'est un pays qui est important pour toi ?  
-	C'est un pays d'un continent qui est important pour moi.  
+~ C'est un pays d'un continent qui est important pour moi.  
 OK, d'accord.  
 Quand tu penses au Pérou, quand tu penses à tout ce qui fait que c'est important pour toi et que tu te reconnais peut-être à des goûts, en effet, des odeurs, à des ambiances, est-ce que ça t'amène dans des émotions très agréables, ça ?  
-	Oui.  
+~ Oui.  
 Je vais te demander de fermer à nouveau les yeux et d'imaginer que cette fois, ce voyage va t'amener au Pérou.  
 On change de continent.  
 Dès qu'on ferme les yeux, c'est déjà un voyage quelque part.  
@@ -140,29 +140,29 @@ Bougez la main, les mains, même le visage.
 Peut-être t'étirer un petit peu et ressortir tout doucement de cette expérience à ton rythme.  
 Et revenir en pleine force.  
 Ça va ?  
-	Oui.  
+~ Oui.  
 Bonne expérience ?  
-	Oui, très bien, super.  
+~ Oui, très bien, super.  
 C'était bien le Pérou ?  
-	Oui, génial.  
-	Ok. J'étais en Amazonie, c'était top.  
+~ Oui, génial.  
+~ Ok. J'étais en Amazonie, c'était top.  
 Alors, on va tester un truc.  
 Qu'est-ce qui se passe maintenant quand tu repenses à ces vêtements que tu évoquais tout à l'heure ?  
-	Je suis encore au Pérou.  
+~ Je suis encore au Pérou.  
 Ok. Repense à ces vêtements, peut-être qu'il y en a en particulier.  
 Imagine les mettre, les porter.  
 C'est comment ?  
-	Là, ça va. J'aimerais bien voir si je peux vraiment le mettre.  
+~ Là, ça va. J'aimerais bien voir si je peux vraiment le mettre.  
 Mais là, comme ça, ça va. En tout cas, d'y penser, par rapport à tout à l'heure, ça fait une sensation très différente.  
 Écoute, super.  
 Après, c'est vrai que c'est bien de tester.  
 Quand tu rentres chez toi ce soir, reteste plein de tenues pour voir.  
-	Carrément.  
+~ Carrément.  
 Si tu as l'impression de danser et d'être au Pérou en le faisant, c'est plutôt bon signe.  
-	Génial.  
+~ Génial.  
 Est-ce que c'est bon pour toi ?  
-	Oui, c'est bon pour moi.  
-	Merci beaucoup.  
+~ Oui, c'est bon pour moi.  
+~ Merci beaucoup.  
 Écoute, merci beaucoup.  
 
 *« On va débriefer un petit peu de ça.  
@@ -253,10 +253,10 @@ On aura d'autres outils pour ça.
 Mais l'avantage, par contre, c'est que c'est rapide et que c'est plutôt efficace et assez surprenant quand on découvre la technique. »*  
 
 Est-ce que tu as quelque chose à ajouter, toi, par rapport à ça, dans ton vécu ?  
-	Non, mais c'était agréable.  
-	Je n'avais pas trop envie d'en sortir.  
-	C'était cool.  
+~ Non, mais c'était agréable.  
+~ Je n'avais pas trop envie d'en sortir.  
+~ C'était cool.  
 Ça avait l'air, en tout cas.  
 Écoute, la musique peut continuer après.  
-	Merci beaucoup.  
+~ Merci beaucoup.  
 Merci à toi.
