@@ -114,7 +114,7 @@ But :
 > *Qu’est-ce qui vous a amené à vouloir commencer ce travail ? »*
 >   
 > *Qu’est-ce qui vous a donné envie de faire cette séance ? »*  
-> ^tip-etat-present
+> ^do-etat-present
 
 > [!warning]  
 >- Etape courte  
@@ -133,12 +133,19 @@ But :
 
 > [!Tip]  Etat désiré  
 > *« Que souhaitez-vous ? »*  
+>   
 > *« Quels résultats attendez vous ?  »*  
+>   
 > *« Comment saurez-vous que vous l'avez atteint ? »*  
+>   
  > *« Quels sont les inconvénients à l'atteindre ? »*  
+ >   
  > *« Quels sont les obstacles à la réalisation de cet objectif ? »*  
+ >   
  > *« De quelles ressources disposez-vous pour atteindre cette objectifs, qu'avez-vous déjà mis en oeuvre ? »*  
+ >   
  > *« Quelles sont les étapes à parcourir ? »*  
+ >   
  > *« Quel est le premier petit pas à effectuer ? »*  
   ^do-etat-desire
 
@@ -164,7 +171,7 @@ Les étapes sont :
 - faciles à observer
 - dépendantes du sujet
 
-> [!tip]  
+> [!tip]  Objectif de la séance
 >*« À votre avis, en quoi cette première séance peut-elle amorcer ce changement ? »*
 >
 >*« D’après vous, sur quoi peut-on commencer à travailler aujourd’hui pour aller vers ce que vous désirez ? »*
@@ -174,6 +181,7 @@ Les étapes sont :
 >*« Comment allez-vous vérifier que votre ressenti est différent ? »*  
 >
 >*« Que pourriez-vous faire après cette séance que vous auriez eu du mal à faire avant ? À quel moment pourrez-vous le faire ? »*
+>^do-obj-seance
 
 ## Lier l'objectif à une valeur forte
 
