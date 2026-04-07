@@ -39,4 +39,6 @@
 - Nouveau recadrage (cf. [[Livret Cycle 1 - Praticien.pdf#page=136&selection=7,12,7,29&color=yellow|Livret Cycle 1 - Praticien, p.136]])
 - Les rêves (cf. [[Livret Cycle 1 - Praticien.pdf#page=139&selection=10,0,12,3&color=yellow|Livret Cycle 1 - Praticien, p.139]])
 - [[Hypnose/Protocole - Sous modalités\|Sous modalités]] (cf. > ([[Livret Cycle 1 - Technicien 1.pdf#page=137&selection=8,0,12,31&color=yellow|Livret Cycle 1 - Technicien 1, p.137]])
+- Double dissociation
+
 

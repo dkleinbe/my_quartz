@@ -12,6 +12,7 @@
 - préparer le terrain et définir les concepts utilisés 
 - générer de l’envie 
 - contourner/annuler les résistances
+- Annoncer/décrire le chemin hypnotique
 
 Répondre à :
 

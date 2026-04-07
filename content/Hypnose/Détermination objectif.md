@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-08 02:08:46","modified":"2025.10.09 17:20","tags":["hypnose"],"cssclasses":""}
+{"publish":true,"created":"2025.09.30 17:58","modified":"2026.04.07 12:34","tags":["hypnose"],"cssclasses":""}
 ---
 
 
@@ -35,8 +35,6 @@ state "[[D%C3%A9termination%20objectif#Changements {Détermination objectif#Chan
 state "[[D%C3%A9termination%20objectif#Objectif%20de%20la%20s%C3%A9ance {Détermination objectif#Objectif de la séance} Objectif de la séance]]" as STEP {
     STEP : - mettre en mouvement
 }
-
-
 
 state "[[D%C3%A9termination%20objectif#Lier%20l'objectif%20%C3%A0%20une%20valeur%20forte {Détermination objectif#Lier l'objectif à une valeur forte} Lier à une valeur]]" as STEP2 {
     STEP2 : - Donner du sens
@@ -115,7 +113,8 @@ But :
 >   
 > *Qu’est-ce qui vous a amené à vouloir commencer ce travail ? »*
 >   
-> *Qu’est-ce qui vous a donné envie de faire cette séance ? »*
+> *Qu’est-ce qui vous a donné envie de faire cette séance ? »*  
+> ^tip-etat-present
 
 > [!warning]  
 >- Etape courte  
@@ -128,17 +127,30 @@ But :
 - Obtenir un objectif précis : ==SUPER==
 
 | ==S==pécifique                                        | ==U==niquement pour soi                            | ==P==ositif                 | ==E==cologique            |
-|:----------------------------------------------------- | -------------------------------------------------- | --------------------------- | ------------------------- |
+| :---------------------------------------------------- | -------------------------------------------------- | --------------------------- | ------------------------- |
 | reformuler : comment, précisément<br>définir les mots | Pas d'implication de tiers ou d'élément extérieurs | Pas la négation du problème | Des conséquences positive |
+|                                                       |                                                    |                             |                           |
+
+> [!Tip]  Etat désiré  
+> *« Que souhaitez-vous ? »*  
+> *« Quels résultats attendez vous ?  »*  
+> *« Comment saurez-vous que vous l'avez atteint ? »*  
+ > *« Quels sont les inconvénients à l'atteindre ? »*  
+ > *« Quels sont les obstacles à la réalisation de cet objectif ? »*  
+ > *« De quelles ressources disposez-vous pour atteindre cette objectifs, qu'avez-vous déjà mis en oeuvre ? »*  
+ > *« Quelles sont les étapes à parcourir ? »*  
+ > *« Quel est le premier petit pas à effectuer ? »*  
+  ^do-etat-desire
 
 ## Changements
 
-> [!tip]  
+> [!tip]  Changements  
 > *« Qu’est-ce qui va changer en vous pour atteindre cet objectif ? »*  
 > 
 >*« Qu’est-ce qui peut vous aider à atteindre ce nouvel état ? »*
 >
->*« De quoi avez-vous besoin pour changer ? »*
+>*« De quoi avez-vous besoin pour changer ? »*  
+>^do-changements
 
 ## Objectif de la séance
 
@@ -266,17 +278,17 @@ Pour les personnes qui n'ont pas confiance en eux
 
 Dans une légère transe
 
-> [!Tip]
+> [!Tip]  
 > *« J'aimerais maintenant, qu'en pensant à cet objectif,  inconsciemment, tu te connectes à toutes les ressources les qualités qui peuvent t'aider à l'atteindre. Et c'est comme si à un à un niveau inconscient, il y avait une recherche de tout ce qui peut être utile dans ton expérience, dans tes connaissances, dans tes savoir. Et tout ça peut même remonter jusqu'à la conscience. »*
 
 ## Terminer la DO
 
-Récapituler les points clés
+Récapituler les points clés  
 	ajustements possible
 
 Transiter ver le [[Hypnose/Discours pré-hypnothique]] discrètement, ==sans l'annoncer==
 
-> [!Tip]
+> [!Tip]  
 > *« Ce que j'aimerais maintenant, c'est que vous puissiez prendre quelques instants pour repenser à tout ce que vous m'avez dit, parce que vous savez, une fois qu'on a parler d'un objectif la plus part du temps on commence à sentir que ça travail à l'intérieur, que nos questionnements commencent à changer, que nos sensations commencent à être différentes. et je ne sais pas si vos avez remarqué que comme le simple fait d'avoir parler de tout ça, d'avoir répondu à ces questions, d'avoir cherché tout ça fait que déjà il y a une focalisation qui est un petit peu différente. »*
 
 Une DO, n'est jamais vraiment finie
@@ -285,16 +297,4 @@ Une DO, n'est jamais vraiment finie
 > - Fixer un temps maximum à ne pas dépasser, ne pas se perdre dans les détails
 > - Quest-ce que je recherche à chaque étape
 > - Faire toute les étapes, méthodiquement, pendant un certain temps
-
-
-
-
-
-
-
-
-
-
-
-
 

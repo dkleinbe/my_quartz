@@ -44,11 +44,6 @@ state "Induction" as IND {
 
 - [[Hypnose/Discours pré-hypnothique]]
 - [[Hypnose/Chemins Effets]]
-
-## Phase II - début d'induction
-
-## Phase III - amplification
-
 ## Les inductions
 
 - [[Hypnose/Induction - Tests Hypnotiques\|Tests Hypnotiques]] (cf. [[Livret Cycle 1 - Technicien 1.pdf#page=61&selection=14,0,16,17|Livret Cycle 1 - Technicien 1, p.61]])
@@ -60,4 +55,4 @@ state "Induction" as IND {
 -  [[Hypnose/Induction - Association-Dissociation\|Association-Dissociation]] (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=54&selection=9,0,11,26|Livret Cycle 1 - Technicien 2, p.54]])
 - Saturation (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=51&selection=20,0,20,17|Livret Cycle 1 - Technicien 2, p.51]]) (video: [Un instant…](https://www.arche-online.com/courses/take/technicien-2/lessons/58542445-demonstration-saturation))
 - Confusion (cf. [[Livret Cycle 1 - Technicien 2.pdf#page=49&selection=10,0,12,14|Livret Cycle 1 - Technicien 2, p.49]])
-- ...
+- Elman
