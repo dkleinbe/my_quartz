@@ -1,37 +1,11 @@
 ---
-{"publish":true,"created":"2025.09.30 18:01","modified":"2025.09.30 18:01","tags":["hypnose"],"cssclasses":""}
+{"publish":true,"created":"2026.04.07 16:51","modified":"2026.04.07 16:52","tags":["hypnose","memo"],"cssclasses":""}
 ---
 
-# Cadrage de la séance
 
-- [[Livret Cycle 1 - Technicien 2.pdf#page=7&selection=20,0,28,6&color=yellow|Livret Cycle 1 - Technicien 2, p.7]]
-## Préparation
+# Mémo - Cadre
 
-Objectif :
-- poser un cadre propice à l’entrée sous hypnose et au changement
-- rassurer le sujet
-- définir les termes et [[Hypnose/Discours pré-hypnothique#Concepts clés\|concepts utilisés]]
-- écarter les [[Hypnose/Croyances limitantes\|croyances limitantes]] et autres résistances
-- donner envie !  
-
-## Le cadre
-
-Exposer :
-- sa façon de travailler
-- sa façon d’aborder le changement
-- la façon dont la séance d’hypnose va se dérouler
-- ce que le client doit faire au début, puis pendant l’accompagnement
-
-*« En quelques mots, quel est le sujet que tu souhaites aborder ? »*
-  
-*« **Je te propose de te détailler un peu comment se déroule une séance.** »*
-
-*« **Qu'est-ce que l'hypnose t'évoque ?**  »*
-
-Repérer :
-- les croyances sur l’hypnose et l’état hypnotique : [[Hypnose/Croyances limitantes\|croyances limitantes]]
-- les croyances sur le changement 
-- les croyances sur l’identité
+- [[Hypnose/Cadrage]]
 
 > [!Tip] Ma façon de concevoir l'hypnose
 > *« **Comment je conçois l'hypnose ?**  »*
@@ -61,5 +35,5 @@ Repérer :
 > Je dis s'hypnotise, parce que je crois que c'est la personne elle même qui produit l'état de conscience hypnotique, c'est toujours de l'auto hypnose d'une certaine façon.»*
 >  
 > *« **Est-ce que cette approche te convient ?** »*
-> ^cadre-conception
+> 
 

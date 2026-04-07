@@ -1,32 +1,11 @@
 ---
-{"publish":true,"created":"2025.09.21 16:09","modified":"2026.04.07 17:07","tags":["hypnose"],"cssclasses":""}
+{"publish":true,"created":"2026-04-07 05:09:34","modified":"2026-04-07T17:11:56.787+02:00","tags":["hypnose","memo"],"cssclasses":""}
 ---
 
 
-# Discours pré-hypnotique
+# Mémo-DPH
 
-## But  
-
-- poser/renforcer le cadre 
-- créer un début de modification de l’état du sujet 
-- préparer le terrain et définir les concepts utilisés 
-- générer de l’envie 
-- contourner/annuler les résistances
-- Annoncer/décrire le chemin hypnotique
-
-Répondre à :
-
-- Pourquoi ?
-- Comment ?
-- Et si ?
-
-## Contenu 
-
-- un cadre
-- des [[Hypnose/Discours pré-hypnothique\|suggestions pré hypnotiques]]
-- la définition des [[Hypnose/Discours pré-hypnothique#Concepts clés\|concepts clés]] 
-- des [[Hypnose/Discours pré-hypnothique#Fusibles\|fusibles]] 
-- si possible : une annonce de la séance/des outils utilisés
+- [[Hypnose/Discours pré-hypnothique]]
 
 > [!tip]  Annonce  
 >*« Tout à l’heure, vous allez entrer dans l’état d’hypnose, au tout début vous allez ressentir que… »*
@@ -36,7 +15,7 @@ Répondre à :
 >*« Souvent, quand une personne rentre dans l’état d’hypnose, elle a l’impression d’être spectatrice d’elle-même, comme si elle prenait de la  distance… »*
 >  
 >*« Tout à l’heure, vous aurez des sensations très simples pour commencer :  votre respiration va devenir plus profonde et vous aurez la sensation que votre corps commence à se poser, à s’installer dans un autre rythme… »*  
->^dph-annonce
+>
 
 > [!tip] Renforcer le cadre  
 >*« Sous hypnose, le changement est plus naturel, plus simple… »*
@@ -48,7 +27,7 @@ Répondre à :
 >*« Vous pouvez visualiser certaines choses, mais sans que cela soit vraiment important pour l’efficacité de la séance… »*
 >  
 >*« Tout à l’heure, vous allez aller à la rencontre d’une autre version de vous-même… »*
->^dph-cadre
+>
 
 > [!tip] Renforcer la suggestibilité  
 > *« Vous entendrez toujours la voix et les mots, et vous ressentirez que chaque phrase influence votre vécu… »*
@@ -56,28 +35,7 @@ Répondre à :
 >*« Votre écoute va progressivement se renforcer, vous aurez une sensation de disponibilité de plus en plus grande… »*
 >
 >*« Vous remarquerez rapidement que sous hypnose, la créativité se libère, l’imagination se renforce… »*
->^dph-sugg
-
-## Concepts clés
-
-### Inconscient
-
-- respiration
-- muscles
-- thermorégulation
-
-### Ancrage
-
-- souvenirs
-- odeurs, gouts
-- liens entre les informations
-
-### Profondeur
-
-- éloignement
-- réalisme des sensations
-
-## Fusibles
+>
 
 > [!tip]  Fusibles
 > *« Tout, pendant la séance, sera dirigé vers votre objectif et seulement vers votre objectif.»*  
@@ -97,15 +55,4 @@ Répondre à :
 >*« Si une émotion passe, elle peut être acceptée, traversée… C’est le signe qu’un travail se réalise.»* - À préciser si on sent une émotion venir.  
 >
 >*« La séance va se prolonger intérieurement, même lorsque vous serez sorti de cet état d’hypnose. Votre part inconsciente sera libre de continuer ce travail dans le cadre qui a été défini.»*
->^dph-fusibles
-
-### Fusibles d'écologie
-
-Ref: [[Livret Cycle 1 - Technicien 2.pdf#page=103&selection=92,0,94,7|Livret Cycle 1 - Technicien 2, p.103]]
-
-Proposer que le changement soit mis en place pour une durée courte afin de valider qu’il correspond réellement aux attentes, qu’il est positif et intéressant à tous les niveaux.
-
-Indiquer qu’un retour en arrière reste possible
- 
-Présupposer que le changement va continuer à évoluer, à s’affiner en fonction des expériences futures.
-
+>

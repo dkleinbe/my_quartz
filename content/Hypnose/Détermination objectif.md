@@ -108,7 +108,7 @@ But :
 - installer la relation (mise en place de la synchronisation) 
 - observer le niveau émotionnel
 
-> [!tip] Question introductive  
+> [!tip] Etat présent - Question introductive  
 > *« Que se passait-il pour vous jusqu’à maintenant ? »*
 >   
 > *Qu’est-ce qui vous a amené à vouloir commencer ce travail ? »*
@@ -203,14 +203,12 @@ Association à la situation, *« Imagine que tu y es, qu'est-ce qui se passe, qu
 - Pas de réponse vague
 - Eventuellement, légère induction ([[Hypnose/Induction - Spirale Sensorielle\|Spiralle sensorielle]]) quelque suggestions pour activer l'imaginaire.
 
-> [!tip]  
->*« Comme ça sera vraiment quand tu auras atteint ton objectif ? »*
->
-> *« Imagine que tu y es, qu'est-ce qui se passe, qu'est ce qui change ? »*
-> 
-> *« Tu es arriver dans cet avenir là, on est l'été. Ressent ce qui est différent à l'intérieur de toi, scanne ton corp, tes ressentis »*
-> 
+> [!tip]  Projection vers avenir
+>*« Comme ça sera vraiment quand tu auras atteint ton objectif ? »*  
+> *« Imagine que tu y es, qu'est-ce qui se passe, qu'est ce qui change ? »*   
+> *« Tu es arriver dans cet avenir là, on est l'été. Ressent ce qui est différent à l'intérieur de toi, scanne ton corp, tes ressentis »*   
 > *« Regarde autour de toi, qu'est qui était différent il y a 6 mois »*
+> ^do-proj-av
 
 ## Vérifier l'écologie
 
@@ -228,10 +226,11 @@ Un changement peut amener 3 grandes réponses :
 > [!info]  
 > A cette étape la question de l'écologie n'a pas besoin d'être résolue, elle doit être posée
 
-> [!tip]  
->*« Pensez à toutes les conséquences de l’objectif sur vous, sur vos proches, votre travail… Est-ce qu’il y a des choses à prendre en compte ? »*
->
->*« Si vous atteignez cet objectif, quelles pourraient être les pires conséquences possibles ? Une fois parvenu au résultat, serez-vous satisfait à 100% du changement obtenu ? »*
+> [!tip]  Ecologie
+>*« Pensez à toutes les conséquences de l’objectif sur vous, sur vos proches, votre travail… Est-ce qu’il y a des choses à prendre en compte ? »*  >*« Si vous atteignez cet objectif, quelles pourraient être les pires conséquences possibles ? Une fois parvenu au résultat, serez-vous satisfait à 100% du changement obtenu ? »*
+>^do-ecologie
+
+
 
 ## Etapes supplémentaires
 
@@ -281,8 +280,9 @@ Récapituler les points clés
 
 Transiter ver le [[Hypnose/Discours pré-hypnothique]] discrètement, ==sans l'annoncer==
 
-> [!Tip]  
+> [!Tip]  Terminer la DO
 > *« Ce que j'aimerais maintenant, c'est que vous puissiez prendre quelques instants pour repenser à tout ce que vous m'avez dit, parce que vous savez, une fois qu'on a parler d'un objectif la plus part du temps on commence à sentir que ça travail à l'intérieur, que nos questionnements commencent à changer, que nos sensations commencent à être différentes. et je ne sais pas si vos avez remarqué que comme le simple fait d'avoir parler de tout ça, d'avoir répondu à ces questions, d'avoir cherché tout ça fait que déjà il y a une focalisation qui est un petit peu différente. »*
+> ^do-terminer
 
 Une DO, n'est jamais vraiment finie
 
