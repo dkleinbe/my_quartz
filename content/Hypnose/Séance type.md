@@ -53,3 +53,6 @@ IND -right-> WORK
 - [[Hypnose/Inductions]]
 - [[Hypnose/Protocoles]]
 
+- [[Hypnose/Mémos]]
+
+
