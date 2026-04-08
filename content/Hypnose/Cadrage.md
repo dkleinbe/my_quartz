@@ -5,6 +5,7 @@
 # Cadrage de la séance
 
 - [[Livret Cycle 1 - Technicien 2.pdf#page=7&selection=20,0,28,6&color=yellow|Livret Cycle 1 - Technicien 2, p.7]]
+- [[Hypnose/Mémo - Cadre]]
 ## Préparation
 
 Objectif :
@@ -38,7 +39,7 @@ Repérer :
 > 
 > *« C'est un accompagnement au changement qui se fait essentiellement en mobilisant les ressources de la personne.  
 > Pour identifier et mobiliser ces ressources, il est intéressant de pouvoir utiliser un état de conscience différent de l'état ordinaire.  
-> C'est ce que permet l'hypnose et l'état de conscience hypnotique »*
+> C'est ce que permet l'hypnose et l'état de conscience hypnotique. Dans cet état on se connecte à des parties de nous qui sont moins accessibles. On peut appeler ça l'inconscient, même si cette notion n'est pas bien définie »*  
 > 
 > *« Je ne fais pas de diagnostic, pas de prescription, pas de la psychanalyse.  
 > Il n'y a rien de magique, ni d'ésotérique, même si parfois les effets peuvent donner ce sentiment tant il sont surprenants :) »*
